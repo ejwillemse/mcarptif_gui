@@ -1,0 +1,5 @@
+Node id=-1362 lat=-26.21103513123825 lon=28.357074473507186 (projected: x=3156695.090777756, y=-3025242.1127852635); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  tags:
+    "description"="Dumpsite"
+  way referrer:
+    -2714

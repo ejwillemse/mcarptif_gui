@@ -1,0 +1,1465 @@
+Way id=-1896 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -796
+    -802
+
+Way id=-1894 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -802
+    -808
+
+Way id=-1892 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -808
+    -814
+
+Way id=-1890 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -814
+    -818
+
+Way id=-1904 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -756
+    -778
+
+Way id=-1902 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -778
+    -784
+
+Way id=-1900 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -784
+    -790
+
+Way id=-1898 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -790
+    -796
+
+Way id=-1912 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -772
+    -768
+
+Way id=-1910 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -768
+    -764
+
+Way id=-1908 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -764
+    -760
+
+Way id=-1906 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -760
+    -756
+
+Way id=-1920 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -820
+    -824
+
+Way id=-1918 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -824
+    -828
+
+Way id=-1916 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -828
+    -832
+
+Way id=-1914 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -832
+    -838
+
+Way id=-1862 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -906
+    -846
+
+Way id=-1864 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -910
+    -906
+
+Way id=-1858 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -924
+    -928
+
+Way id=-1860 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -916
+    -924
+
+Way id=-1870 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -842
+    -944
+
+Way id=-1872 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -842
+    -856
+
+Way id=-1866 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -920
+    -910
+
+Way id=-1868 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -944
+    -920
+
+Way id=-1878 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -914
+    -838
+
+Way id=-1880 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -872
+    -504
+    -502
+    -914
+
+Way id=-1874 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -904
+    -496
+    -848
+
+Way id=-1876 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -914
+    -500
+    -498
+    -904
+
+Way id=-1886 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -822
+    -826
+
+Way id=-1888 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -818
+    -822
+
+Way id=-1882 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -830
+    -834
+
+Way id=-1884 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -826
+    -830
+
+Way id=-1828 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -656
+    -650
+
+Way id=-1826 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -694
+    -676
+
+Way id=-2516 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  nodes:
+    -1184
+    -1180
+
+Way id=-1832 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -642
+    -640
+
+Way id=-2518 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  nodes:
+    -1180
+    -1174
+
+Way id=-1830 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -652
+    -656
+
+Way id=-2520 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  nodes:
+    -1138
+    -1134
+
+Way id=-2522 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  nodes:
+    -1134
+    -1202
+    -1136
+
+Way id=-1836 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -918
+    -922
+
+Way id=-1834 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -940
+    -936
+
+Way id=-2524 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  nodes:
+    -456
+    -472
+
+Way id=-2526 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  nodes:
+    -1176
+    -1204
+    -1206
+
+Way id=-1840 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -884
+    -486
+    -882
+
+Way id=-1838 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -902
+    -900
+
+Way id=-2528 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  nodes:
+    -1206
+    -1200
+
+Way id=-1844 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -966
+    -960
+
+Way id=-10103 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  nodes:
+    -10102
+    -360
+
+Way id=-1842 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -946
+    -956
+
+Way id=-10104 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  nodes:
+    -10068
+    -10102
+
+Way id=-1848 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -976
+    -896
+
+Way id=-10098 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  nodes:
+    -10094
+    -10096
+
+Way id=-1846 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -956
+    -488
+    -966
+
+Way id=-1852 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -836
+    -492
+
+Way id=-1850 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -492
+    -490
+    -810
+
+Way id=-1856 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -928
+    -930
+
+Way id=-1854 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -930
+    -494
+    -836
+
+Way id=-2560 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -18
+    -24
+
+Way id=-2558 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -46
+    -26
+
+Way id=-2532 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  nodes:
+    -1196
+    -1210
+    -1198
+
+Way id=-1810 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -1064
+    -482
+
+Way id=-10069 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0; modified
+  nodes:
+    -160
+    -10068
+
+Way id=-2530 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  nodes:
+    -1206
+    -1208
+    -1196
+
+Way id=-1812 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -1048
+    -1046
+
+Way id=-2536 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  nodes:
+    -1124
+    -1092
+
+Way id=-1814 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -798
+    -792
+
+Way id=-2534 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  nodes:
+    -1158
+    -1124
+
+Way id=-1816 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -804
+    -798
+
+Way id=-2540 7 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  nodes:
+    -614
+    -616
+    -626
+    -624
+    -622
+    -620
+    -618
+
+Way id=-1818 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -810
+    -804
+
+Way id=-1820 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -484
+    -482
+    -1060
+
+Way id=-2538 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  nodes:
+    -1096
+    -1100
+
+Way id=-1822 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -1036
+    -484
+    -1034
+
+Way id=-1824 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -492
+    -1058
+
+Way id=-2032 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -710
+    -708
+
+Way id=-2030 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -548
+    -714
+
+Way id=-2028 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -714
+    -716
+
+Way id=-2026 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -716
+    -718
+
+Way id=-2024 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -718
+    -720
+
+Way id=-2022 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -698
+    -702
+
+Way id=-2020 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -702
+    -706
+
+Way id=-2018 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -682
+    -672
+
+Way id=-2046 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -1010
+    -1006
+
+Way id=-2044 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -1018
+    -952
+
+Way id=-2042 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -1022
+    -1024
+
+Way id=-2040 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -1024
+    -1026
+
+Way id=-2038 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -1026
+    -1028
+
+Way id=-2036 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -1028
+    -708
+
+Way id=-2034 5 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -1032
+    -550
+    -548
+    -546
+    -710
+
+Way id=-1998 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -528
+    -526
+
+Way id=-2366 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  nodes:
+    -1002
+    -1008
+
+Way id=-2000 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -530
+    -528
+
+Way id=-1994 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -524
+    -522
+
+Way id=-1996 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -526
+    -524
+
+Way id=-1990 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -728
+    -516
+    -726
+
+Way id=-1992 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -522
+    -520
+
+Way id=-1986 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -724
+    -722
+
+Way id=-1988 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -726
+    -514
+    -724
+
+Way id=-10118 16 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0; modified
+  nodes:
+    -10094
+    -10117
+    -10119
+    -10121
+    -10123
+    -10125
+    -10127
+    -10129
+    -10131
+    -10105
+    -10106
+    -10108
+    -10110
+    -10112
+    -10114
+    -10102
+
+Way id=-2352 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  nodes:
+    -1018
+    -984
+
+Way id=-2014 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -688
+    -700
+
+Way id=-2016 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -672
+    -678
+
+Way id=-2010 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -704
+    -544
+
+Way id=-2346 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  nodes:
+    -966
+    -968
+
+Way id=-2012 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -700
+    -704
+
+Way id=-2006 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -544
+    -530
+
+Way id=-2008 8 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -594
+    -542
+    -540
+    -538
+    -536
+    -534
+    -532
+    -544
+
+Way id=-2002 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -518
+    -728
+
+Way id=-10136 14 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  nodes:
+    -10068
+    -10070
+    -10072
+    -10074
+    -10076
+    -10078
+    -10080
+    -10082
+    -10084
+    -10086
+    -10088
+    -10090
+    -10092
+    -10094
+
+Way id=-2004 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -550
+    -518
+
+Way id=-1964 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -748
+    -742
+
+Way id=-1962 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -742
+    -740
+
+Way id=-1968 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -750
+    -508
+    -1064
+
+Way id=-1966 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -752
+    -748
+
+Way id=-1956 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -792
+    -786
+
+Way id=-1954 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -786
+    -780
+
+Way id=-1960 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -740
+    -732
+
+Way id=-1958 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -732
+    -526
+
+Way id=-1980 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -518
+    -512
+
+Way id=-1978 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -512
+    -750
+
+Way id=-1984 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -722
+    -730
+
+Way id=-1982 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -730
+    -528
+
+Way id=-1972 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -726
+    -510
+
+Way id=-1970 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -510
+    -734
+
+Way id=-1976 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -512
+    -510
+
+Way id=-1974 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -510
+    -730
+
+Way id=-1930 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -794
+    -800
+
+Way id=-1932 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -788
+    -794
+
+Way id=-1934 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -782
+    -788
+
+Way id=-1936 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -776
+    -782
+
+Way id=-1922 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -816
+    -820
+
+Way id=-1924 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -812
+    -816
+
+Way id=-1926 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -806
+    -812
+
+Way id=-1928 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -800
+    -806
+
+Way id=-1946 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -770
+    -766
+
+Way id=-1948 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -524
+    -770
+
+Way id=-1950 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -774
+    -506
+    -752
+
+Way id=-1952 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -780
+    -774
+
+Way id=-1938 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -754
+    -776
+
+Way id=-1940 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -758
+    -754
+
+Way id=-1942 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -762
+    -758
+
+Way id=-1944 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -766
+    -762
+
+Way id=-2722 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -770
+    -524
+
+Way id=-2692 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -386
+    -390
+
+Way id=-2690 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -374
+    -386
+
+Way id=-2696 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  nodes:
+    -338
+    -1252
+
+Way id=-2694 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -390
+    -396
+
+Way id=-2700 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -302
+    -1252
+
+Way id=-2698 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -1252
+    -520
+
+Way id=-2704 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -232
+    -218
+
+Way id=-2702 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -360
+    -268
+
+Way id=-2708 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -104
+    -100
+
+Way id=-2706 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -226
+    -210
+
+Way id=-2712 28 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  nodes:
+    -618
+    -1364
+    -1366
+    -1368
+    -1370
+    -1372
+    -1374
+    -1376
+    -1378
+    -1380
+    -1382
+    -1384
+    -1386
+    -1388
+    -1390
+    -1392
+    -1394
+    -1396
+    -1398
+    -1400
+    -1402
+    -1404
+    -1406
+    -1408
+    -1410
+    -1412
+    -1414
+    -1356
+
+Way id=-2710 53 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  nodes:
+    -614
+    -1254
+    -1256
+    -1258
+    -1260
+    -1262
+    -1264
+    -1266
+    -1268
+    -1270
+    -1272
+    -1274
+    -1276
+    -1278
+    -1280
+    -1282
+    -1284
+    -1286
+    -1288
+    -1290
+    -1292
+    -1294
+    -1296
+    -1298
+    -1300
+    -1302
+    -1304
+    -1306
+    -1308
+    -1310
+    -1312
+    -1314
+    -1316
+    -1318
+    -1320
+    -1322
+    -1324
+    -1326
+    -1328
+    -1330
+    -1332
+    -1334
+    -1336
+    -1338
+    -1340
+    -1342
+    -1344
+    -1346
+    -1348
+    -1350
+    -1352
+    -1354
+    -1356
+
+Way id=-2716 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -704
+    -544
+
+Way id=-2714 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -1356
+    -1358
+    -1360
+    -1362
+
+Way id=-2720 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -732
+    -526
+
+Way id=-2718 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -730
+    -528
+
+Way id=-1550 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  nodes:
+    -150
+    -148
+
+Way id=-2064 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -632
+    -636
+
+Way id=-2602 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -1240
+    -160
+
+Way id=-2062 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -636
+    -638
+
+Way id=-2604 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -192
+    -194
+
+Way id=-2060 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -638
+    -646
+
+Way id=-2606 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -194
+    -190
+
+Way id=-2058 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -646
+    -554
+
+Way id=-2608 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -190
+    -138
+
+Way id=-2056 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -660
+    -552
+    -652
+
+Way id=-2594 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -58
+    -54
+
+Way id=-2054 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -554
+    -992
+
+Way id=-2596 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -54
+    -1198
+
+Way id=-2598 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  nodes:
+    -1198
+    -1210
+    -1196
+
+Way id=-2050 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -1004
+    -1002
+
+Way id=-2600 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  nodes:
+    -156
+    -1240
+
+Way id=-2080 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -566
+    -562
+
+Way id=-2618 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -238
+    -236
+
+Way id=-2078 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -570
+    -560
+
+Way id=-2620 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -236
+    -240
+
+Way id=-2076 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -562
+    -570
+
+Way id=-2622 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -230
+    -186
+
+Way id=-2074 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -560
+    -576
+
+Way id=-2624 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -186
+    -182
+
+Way id=-2072 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -576
+    -574
+    -572
+    -580
+
+Way id=-2610 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  nodes:
+    -138
+    -1242
+    -108
+
+Way id=-2070 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -576
+    -628
+
+Way id=-2612 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -224
+    -1244
+
+Way id=-2068 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -628
+    -630
+
+Way id=-2614 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -48
+    -1244
+
+Way id=-2066 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -630
+    -590
+
+Way id=-2616 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -246
+    -1244
+
+Way id=-2094 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -590
+    -592
+
+Way id=-2572 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -124
+    -126
+
+Way id=-2096 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -588
+    -590
+
+Way id=-2570 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -8
+    -124
+
+Way id=-2090 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -562
+    -556
+    -558
+    -560
+
+Way id=-2576 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -128
+    -148
+
+Way id=-2092 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -588
+    -580
+
+Way id=-2574 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -126
+    -128
+
+Way id=-2086 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -582
+    -584
+    -586
+
+Way id=-2564 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -28
+    -14
+
+Way id=-2088 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -578
+    -582
+
+Way id=-2562 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -24
+    -28
+
+Way id=-2082 6 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -582
+    -568
+    -566
+    -564
+    -542
+    -594
+
+Way id=-2568 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -10
+    -6
+
+Way id=-2084 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -578
+    -570
+
+Way id=-2566 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -14
+    -10
+
+Way id=-2110 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -606
+    -602
+
+Way id=-2588 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -120
+    -66
+
+Way id=-2112 7 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -618
+    -612
+    -610
+    -608
+    -606
+    -604
+    -634
+
+Way id=-2586 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -42
+    -120
+
+Way id=-2106 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -602
+    -598
+    -596
+    -594
+
+Way id=-2592 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -64
+    -58
+
+Way id=-2590 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  nodes:
+    -66
+    -1238
+    -64
+
+Way id=-2108 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -602
+    -600
+
+Way id=-2102 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -586
+    -600
+
+Way id=-2580 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -16
+    -40
+
+Way id=-2104 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -580
+    -578
+
+Way id=-2578 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -12
+    -16
+
+Way id=-2098 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  nodes:
+    -592
+    -600
+
+Way id=-2584 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -122
+    -42
+
+Way id=-2100 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -586
+    -588
+
+Way id=-2582 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -82
+    -76
+
+Way id=-2670 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -384
+    -388
+
+Way id=-2672 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -388
+    -392
+
+Way id=-2666 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -372
+    -368
+
+Way id=-2668 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -368
+    -384
+
+Way id=-2662 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -362
+    -358
+
+Way id=-2114 12 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  nodes:
+    -1160
+    -1230
+    -1228
+    -1226
+    -1224
+    -1222
+    -1220
+    -1218
+    -1216
+    -1214
+    -1212
+    -614
+
+Way id=-2664 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -376
+    -370
+
+Way id=-2658 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -336
+    -310
+
+Way id=-2660 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -354
+    -336
+
+Way id=-1720 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  nodes:
+    -326
+    -356
+
+Way id=-2686 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -382
+    -378
+
+Way id=-2688 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -378
+    -374
+
+Way id=-2682 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -340
+    -342
+
+Way id=-2684 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -342
+    -338
+
+Way id=-2678 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -380
+    -364
+
+Way id=-2680 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -364
+    -340
+
+Way id=-2674 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -384
+    -338
+
+Way id=-2676 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -370
+    -380
+
+Way id=-2640 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  nodes:
+    -180
+    -1246
+    -1248
+    -278
+
+Way id=-2638 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -184
+    -180
+
+Way id=-2636 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -188
+    -184
+
+Way id=-2634 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -248
+    -188
+
+Way id=-2632 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -166
+    -424
+
+Way id=-1684 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  nodes:
+    -354
+    -276
+
+Way id=-2630 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -172
+    -166
+
+Way id=-2628 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -178
+    -172
+
+Way id=-2626 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -182
+    -178
+
+Way id=-2656 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -306
+    -310
+
+Way id=-2654 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -292
+    -306
+
+Way id=-2652 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -272
+    -274
+
+Way id=-2650 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -274
+    -292
+
+Way id=-2648 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  nodes:
+    -290
+    -1250
+    -294
+
+Way id=-2646 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -286
+    -290
+
+Way id=-2644 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -282
+    -286
+
+Way id=-2642 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  nodes:
+    -278
+    -282

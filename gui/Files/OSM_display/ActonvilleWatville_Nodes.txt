@@ -1,0 +1,3838 @@
+Node id=-812 lat=-26.21666363792602 lon=28.299326952083604 (projected: x=3150266.666098309, y=-3025940.5036504613); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1926
+    -1924
+    -2238
+    -2214
+
+Node id=-810 lat=-26.215900900132628 lon=28.300713999801122 (projected: x=3150421.0715439296, y=-3025845.86038643); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1850
+    -1818
+    -2214
+
+Node id=-816 lat=-26.216991378834962 lon=28.299548209548814 (projected: x=3150291.2963666706, y=-3025981.1711183633); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1922
+    -1924
+    -2298
+    -2216
+
+Node id=-814 lat=-26.21725707706216 lon=28.298169617065827 (projected: x=3150137.832153453, y=-3026014.140153923); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1892
+    -1890
+    -2238
+
+Node id=-804 lat=-26.215582666699554 lon=28.300475517547415 (projected: x=3150394.5238208836, y=-3025806.373014507); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1818
+    -1816
+    -2212
+
+Node id=-802 lat=-26.216710030518843 lon=28.297524552277615 (projected: x=3150066.0238697007, y=-3025946.260231183); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1896
+    -1894
+    -2234
+
+Node id=-808 lat=-26.216978897203493 lon=28.297851840792344 (projected: x=3150102.4574605026, y=-3025979.622343031); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1892
+    -1894
+    -2236
+
+Node id=-806 lat=-26.216305823566188 lon=28.29911386252263 (projected: x=3150242.9450768884, y=-3025896.1046733153); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1926
+    -1928
+    -2236
+    -2212
+
+Node id=-828 lat=-26.21785937531587 lon=28.30010710327079 (projected: x=3150353.5121312086, y=-3026088.876319169); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1918
+    -1916
+    -2222
+
+Node id=-826 lat=-26.2181326481528 lon=28.299097716359586 (projected: x=3150241.1476942403, y=-3026122.7855005725); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1884
+    -1886
+    -2220
+
+Node id=-832 lat=-26.218197348577597 lon=28.300319896720726 (projected: x=3150377.2001896994, y=-3026130.813893194); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1914
+    -1916
+    -2224
+
+Node id=-830 lat=-26.218280753980867 lon=28.299306664673402 (projected: x=3150264.4077141364, y=-3026141.163311342); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1884
+    -1882
+    -2222
+
+Node id=-820 lat=-26.21734400134569 lon=28.299731050415804 (projected: x=3150311.6501188804, y=-3026024.926127797); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1920
+    -1922
+    -2218
+
+Node id=-818 lat=-26.21756308552648 lon=28.298529209209125 (projected: x=3150177.8617677386, y=-3026052.1111589787); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1888
+    -1890
+    -2216
+
+Node id=-824 lat=-26.217656681804407 lon=28.299993517211675 (projected: x=3150340.8677889467, y=-3026063.725056172); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1918
+    -1920
+    -2220
+
+Node id=-822 lat=-26.217833275252808 lon=28.298790911315116 (projected: x=3150206.994312917, y=-3026085.637685412); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1888
+    -1886
+    -2218
+
+Node id=-778 lat=-26.215573156152125 lon=28.296244104814587 (projected: x=3149923.485110129, y=-3025805.192918527); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1902
+    -1904
+    -2226
+
+Node id=-780 lat=-26.214309557410456 lon=28.29947618231918 (projected: x=3150283.2783321445, y=-3025648.4028233727); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1952
+    -1954
+    -2204
+
+Node id=-782 lat=-26.214989222823878 lon=28.29821040760546 (projected: x=3150142.372935554, y=-3025732.7369825877); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1936
+    -1934
+    -2228
+    -2204
+
+Node id=-784 lat=-26.215873415891554 lon=28.296595474129806 (projected: x=3149962.5993633796, y=-3025842.4500539755); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1902
+    -1900
+    -2228
+
+Node id=-770 lat=-26.21300487667873 lon=28.29691618347902 (projected: x=3149998.3005648265, y=-3025486.5169715118); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1948
+    -1946
+    -2722
+    -2198
+    -2200
+
+Node id=-772 lat=-26.214170518524767 lon=28.294684783456837 (projected: x=3149749.9022506014, y=-3025631.150678356); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1912
+    -2200
+
+Node id=-774 lat=-26.213960094089817 lon=28.299276118663826 (projected: x=3150261.0073479046, y=-3025605.040950872); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1952
+    -1950
+    -2202
+
+Node id=-776 lat=-26.214645638068095 lon=28.29801273660696 (projected: x=3150120.368300657, y=-3025690.1042801286); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1936
+    -1938
+    -2226
+    -2202
+
+Node id=-794 lat=-26.21564011134287 lon=28.29865270649794 (projected: x=3150191.609423043, y=-3025813.500912514); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1932
+    -1930
+    -2414
+    -2232
+
+Node id=-796 lat=-26.21640761453875 lon=28.29719507323567 (projected: x=3150029.3464305243, y=-3025908.735273424); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1898
+    -1896
+    -2232
+
+Node id=-798 lat=-26.21522369662627 lon=28.30025204671008 (projected: x=3150369.647161064, y=-3025761.8310460243); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1814
+    -1816
+    -2418
+    -2210
+
+Node id=-800 lat=-26.215980059103966 lon=28.298884387118747 (projected: x=3150217.3999917787, y=-3025855.6826890404); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1930
+    -1928
+    -2234
+    -2210
+
+Node id=-786 lat=-26.214647616771575 lon=28.29971939813353 (projected: x=3150310.3529927507, y=-3025690.349801362); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1956
+    -1954
+    -2206
+
+Node id=-788 lat=-26.215308920531164 lon=28.298431589978787 (projected: x=3150166.9948447254, y=-3025772.405844046); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1934
+    -1932
+    -2230
+    -2206
+
+Node id=-790 lat=-26.216123757082094 lon=28.296909956445074 (projected: x=3149997.6073745787, y=-3025873.5132185835); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1898
+    -1900
+    -2230
+
+Node id=-792 lat=-26.215000196695637 lon=28.299925885468028 (projected: x=3150333.3390576825, y=-3025734.0986452177); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1956
+    -1814
+    -2414
+    -2208
+
+Node id=-880 lat=-26.21868666017728 lon=28.306002207943678 (projected: x=3151009.7521815677, y=-3026191.530573221); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2264
+    -2274
+    -2276
+
+Node id=-878 lat=-26.21820995276867 lon=28.30571526405553 (projected: x=3150977.8097340525, y=-3026132.3778926353); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2266
+    -2278
+    -2276
+
+Node id=-876 lat=-26.21995392965412 lon=28.302038556368707 (projected: x=3150568.52050656, y=-3026348.7820592825); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2252
+
+Node id=-874 lat=-26.22008816864569 lon=28.30309961110178 (projected: x=3150686.6365791494, y=-3026365.439454136); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2250
+
+Node id=-872 lat=-26.219807486941214 lon=28.301038716331778 (projected: x=3150457.218822774, y=-3026330.6103558084); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1880
+    -2258
+
+Node id=-870 lat=-26.220399358439494 lon=28.30180730084996 (projected: x=3150542.7772599696, y=-3026404.0543240192); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2256
+    -2252
+    -2258
+
+Node id=-868 lat=-26.22058851261328 lon=28.30242624944425 (projected: x=3150611.678302313, y=-3026427.526107676); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2256
+
+Node id=-866 lat=-26.22069224219091 lon=28.30309961110178 (projected: x=3150686.6365791494, y=-3026440.3977309703); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2254
+    -2256
+    -2250
+
+Node id=-896 lat=-26.217413738538877 lon=28.306070924192266 (projected: x=3151017.40163937, y=-3026033.5794525053); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1848
+    -2278
+    -2280
+    -2328
+
+Node id=-894 lat=-26.217685572363248 lon=28.306087228354983 (projected: x=3151019.216610461, y=-3026067.3099439945); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2278
+
+Node id=-892 lat=-26.217895324809035 lon=28.306034090597915 (projected: x=3151013.3013424026, y=-3026093.3371234513); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2278
+
+Node id=-890 lat=-26.218105076876657 lon=28.30590655998096 (projected: x=3150999.104699062, y=-3026119.3643029085); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2278
+
+Node id=-888 lat=-26.219087092891034 lon=28.306321034486064 (projected: x=3151045.243789918, y=-3026241.2188249105); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2260
+    -2270
+    -2274
+
+Node id=-886 lat=-26.21920150198468 lon=28.306161621214873 (projected: x=3151027.4979857425, y=-3026255.4154682495); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2260
+
+Node id=-884 lat=-26.21939218355741 lon=28.305523968130096 (projected: x=3150956.5147690424, y=-3026279.0765404827); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1840
+    -2260
+
+Node id=-882 lat=-26.219001285996967 lon=28.305290161999007 (projected: x=3150930.4875895856, y=-3026230.5713424045); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1840
+    -2264
+
+Node id=-846 lat=-26.219465786560882 lon=28.303084647509387 (projected: x=3150684.970839664, y=-3026288.2097143657); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1862
+    -2244
+    -2268
+
+Node id=-848 lat=-26.219436497910156 lon=28.302317423317778 (projected: x=3150599.56383333, y=-3026284.57537367); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1874
+    -2244
+    -2272
+
+Node id=-842 lat=-26.218808404171227 lon=28.304544417319622 (projected: x=3150847.4716716143, y=-3026206.637328388); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1872
+    -1870
+    -2266
+    -2268
+
+Node id=-844 lat=-26.219463166480672 lon=28.303265410202926 (projected: x=3150705.0932506626, y=-3026287.884596445); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2268
+
+Node id=-838 lat=-26.21845086725245 lon=28.30050143124019 (projected: x=3150397.408519968, y=-3026162.2719593304); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1914
+    -1878
+    -2242
+
+Node id=-840 lat=-26.218810043952047 lon=28.299885226145513 (projected: x=3150328.812882604, y=-3026206.8408027417); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2242
+
+Node id=-834 lat=-26.218568704978036 lon=28.299605671318048 (projected: x=3150297.692981562, y=-3026176.8939704415); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1882
+    -2224
+
+Node id=-836 lat=-26.21619749310184 lon=28.301044015024072 (projected: x=3150457.808670502, y=-3025882.6626410335); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1852
+    -1854
+    -2298
+    -2308
+
+Node id=-862 lat=-26.22063122480351 lon=28.30375256786059 (projected: x=3150759.32339305, y=-3026432.8261878565); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2254
+
+Node id=-864 lat=-26.219801385157503 lon=28.303997426645143 (projected: x=3150786.580948263, y=-3026329.853201496); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2248
+
+Node id=-858 lat=-26.22016138984853 lon=28.30491564708722 (projected: x=3150888.796780311, y=-3026374.5253058723); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2246
+
+Node id=-860 lat=-26.220466477697656 lon=28.304344309923263 (projected: x=3150825.1958181476, y=-3026412.3830214473); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2248
+    -2246
+    -2254
+
+Node id=-854 lat=-26.219099915018482 lon=28.301362383828103 (projected: x=3150493.249323651, y=-3026242.8098792997); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2272
+
+Node id=-856 lat=-26.219948788749868 lon=28.305152866978315 (projected: x=3150915.203977793, y=-3026348.144137173); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1872
+    -2246
+
+Node id=-850 lat=-26.219314578940843 lon=28.302336794368294 (projected: x=3150601.7202088092, y=-3026269.446824804); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2272
+
+Node id=-852 lat=-26.21879726150858 lon=28.301974751610757 (projected: x=3150561.4177933945, y=-3026205.254676554); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2272
+
+Node id=-932 lat=-26.216117618346313 lon=28.301974208244122 (projected: x=3150561.357306097, y=-3025872.751503102); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2294
+
+Node id=-930 lat=-26.216569147066867 lon=28.30114747061338 (projected: x=3150469.325294024, y=-3025928.77884924); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1854
+    -1856
+    -2294
+
+Node id=-936 lat=-26.216539904704778 lon=28.302376325249103 (projected: x=3150606.120766331, y=-3025925.1503427); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1834
+    -2294
+
+Node id=-934 lat=-26.216094341148775 lon=28.302105999180757 (projected: x=3150576.028206055, y=-3025869.863188621); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2294
+
+Node id=-940 lat=-26.216161496178675 lon=28.302798314368815 (projected: x=3150653.096380258, y=-3025878.1960165594); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1834
+    -2348
+    -2304
+    -2306
+
+Node id=-938 lat=-26.215467410930557 lon=28.302374420787654 (projected: x=3150605.9087626524, y=-3025792.0717549063); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2384
+    -2308
+    -2306
+
+Node id=-944 lat=-26.21838118750368 lon=28.304247829087185 (projected: x=3150814.455620604, y=-3026153.6256855275); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1868
+    -1870
+    -2300
+    -2344
+
+Node id=-942 lat=-26.215327238826426 lon=28.304198012439937 (projected: x=3150808.9100567997, y=-3025774.6788255377); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2396
+    -2312
+    -2310
+
+Node id=-948 lat=-26.21662331464093 lon=28.303130425350467 (projected: x=3150690.0668056225, y=-3025935.500175875); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2304
+    -2302
+    -2316
+
+Node id=-946 lat=-26.21724900124645 lon=28.303550396025706 (projected: x=3150736.8177273376, y=-3026013.1380691417); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1842
+    -2302
+    -2344
+
+Node id=-952 lat=-26.21470668800718 lon=28.305416255016606 (projected: x=3150944.5242000977, y=-3025697.679472814); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2044
+    -2378
+    -2240
+    -2338
+
+Node id=-950 lat=-26.21514846861562 lon=28.304662967814252 (projected: x=3150860.66865231, y=-3025752.4965703203); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2240
+    -2310
+    -2332
+
+Node id=-956 lat=-26.216921261063185 lon=28.3042312235381 (projected: x=3150812.607099336, y=-3025972.4706012406); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1842
+    -1846
+    -2314
+    -2320
+
+Node id=-954 lat=-26.21795404596012 lon=28.30502859128044 (projected: x=3150901.369670388, y=-3026100.6235591117); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2300
+    -2314
+    -2342
+
+Node id=-960 lat=-26.21635435105826 lon=28.304464002611628 (projected: x=3150838.519947268, y=-3025902.126142518); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1844
+    -2320
+    -2322
+
+Node id=-958 lat=-26.216607702227364 lon=28.304023056374803 (projected: x=3150789.4340367178, y=-3025933.5629255846); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2320
+
+Node id=-898 lat=-26.217065847018954 lon=28.306746136542582 (projected: x=3151092.565934384, y=-3025990.411459236); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2262
+    -2280
+    -2336
+
+Node id=-900 lat=-26.217790448633405 lon=28.307256259010405 (projected: x=3151149.3525077445, y=-3026080.3235337236); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1838
+    -2262
+
+Node id=-902 lat=-26.218200418600578 lon=28.307405044730185 (projected: x=3151165.915258308, y=-3026131.194839024); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1838
+    -2270
+
+Node id=-904 lat=-26.21918346076055 lon=28.30133956765503 (projected: x=3150490.7094388832, y=-3026253.1767919133); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1876
+    -1874
+    -2272
+
+Node id=-906 lat=-26.219096242496995 lon=28.30284787277454 (projected: x=3150658.6131967474, y=-3026242.354168524); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1862
+    -1864
+    -2282
+
+Node id=-908 lat=-26.218504251098818 lon=28.30244289953487 (projected: x=3150613.531781923, y=-3026168.8961450458); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2350
+    -2284
+    -2282
+
+Node id=-910 lat=-26.21885685971847 lon=28.303304298308028 (projected: x=3150709.4222547207, y=-3026212.6499997363); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1866
+    -1864
+    -2284
+
+Node id=-912 lat=-26.218263066810263 lon=28.302902308655796 (projected: x=3150664.67297133, y=-3026138.9685857124); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2284
+
+Node id=-914 lat=-26.21878812588041 lon=28.30074596379201 (projected: x=3150424.6297591184, y=-3026204.121070311); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1876
+    -1880
+    -1878
+    -2286
+
+Node id=-916 lat=-26.218038715812582 lon=28.30213110544252 (projected: x=3150578.8230223297, y=-3026111.1298554125); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1860
+    -2350
+    -2286
+    -2296
+
+Node id=-918 lat=-26.217564546321046 lon=28.30305220429047 (projected: x=3150681.3592770537, y=-3026052.2924216483); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1836
+    -2288
+    -2296
+
+Node id=-920 lat=-26.218643911321454 lon=28.303766154227404 (projected: x=3150760.8358204854, y=-3026186.2260319362); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1868
+    -1866
+    -2288
+
+Node id=-922 lat=-26.217107639651974 lon=28.30273248835488 (projected: x=3150645.768661906, y=-3025995.597276148); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1836
+    -2290
+    -2340
+
+Node id=-924 lat=-26.217560697094573 lon=28.30183410432978 (projected: x=3150545.761009695, y=-3026051.8147904496); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1858
+    -1860
+    -2340
+
+Node id=-926 lat=-26.216536965833857 lon=28.302375943636196 (projected: x=3150606.078285377, y=-3025924.785676164); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2292
+    -2290
+
+Node id=-928 lat=-26.21706555897251 lon=28.30150062059503 (projected: x=3150508.6377701545, y=-3025990.375717149); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1856
+    -1858
+    -2292
+
+Node id=-1000 lat=-26.21587186802946 lon=28.309086030170715 (projected: x=3151353.041701578, y=-3025842.2579903235); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2360
+
+Node id=-998 lat=-26.21675379292179 lon=28.311503798117162 (projected: x=3151622.186398233, y=-3025951.6904494013); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2362
+    -2364
+    -2358
+
+Node id=-996 lat=-26.21711132813601 lon=28.310852860593116 (projected: x=3151549.724364518, y=-3025996.054959841); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2374
+    -2376
+    -2362
+
+Node id=-994 lat=-26.215526246991793 lon=28.309790105451818 (projected: x=3151431.419003351, y=-3025799.3722969); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2374
+    -2360
+    -2356
+
+Node id=-1008 lat=-26.2178859839978 lon=28.310215207508342 (projected: x=3151478.7411478185, y=-3026092.178065789); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2048
+    -2366
+
+Node id=-1006 lat=-26.217170917231563 lon=28.31180934022029 (projected: x=3151656.199189569, y=-3026003.4490449145); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2046
+    -2364
+
+Node id=-1004 lat=-26.21742119109964 lon=28.310308198583204 (projected: x=3151489.0928669204, y=-3026034.5042022206); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2050
+    -2376
+
+Node id=-1002 lat=-26.217480780036496 lon=28.31018863862981 (projected: x=3151475.7835137895, y=-3026041.8982872926); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2050
+    -2366
+    -2360
+
+Node id=-1016 lat=-26.213199879316587 lon=28.307643912602842 (projected: x=3151192.5059082587, y=-3025510.712942882); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2368
+
+Node id=-1014 lat=-26.212975770355122 lon=28.307691164047768 (projected: x=3151197.765915047, y=-3025482.9054557797); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2368
+
+Node id=-1012 lat=-26.21274932346593 lon=28.3076380262907 (projected: x=3151191.8506469885, y=-3025454.807932502); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2368
+
+Node id=-1010 lat=-26.217850230763865 lon=28.311184971574775 (projected: x=3151586.694789883, y=-3026087.741614747); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2046
+    -2048
+
+Node id=-1024 lat=-26.213388597785027 lon=28.304536805997905 (projected: x=3150846.6243831567, y=-3025534.129211699); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2040
+    -2042
+    -2404
+
+Node id=-1022 lat=-26.213788896179498 lon=28.30482519523305 (projected: x=3150878.727725963, y=-3025583.798534531); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2042
+    -2406
+    -2380
+
+Node id=-1020 lat=-26.21420871984555 lon=28.305091819242897 (projected: x=3150908.4081749725, y=-3025635.890751159); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2386
+    -2380
+    -2378
+
+Node id=-1018 lat=-26.21339290820808 lon=28.30753175077657 (projected: x=3151180.0201108716, y=-3025534.66405129); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2044
+    -2368
+    -2352
+
+Node id=-966 lat=-26.21654668269778 lon=28.3046476907091 (projected: x=3150858.9680127436, y=-3025925.9913824704); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1844
+    -1846
+    -2346
+
+Node id=-968 lat=-26.216386506280347 lon=28.30493676010753 (projected: x=3150891.1470709806, y=-3025906.1160817947); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2346
+    -2324
+    -2334
+
+Node id=-962 lat=-26.216057214336754 lon=28.304247829087185 (projected: x=3150814.455620604, y=-3025865.256367681); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2316
+    -2318
+    -2322
+
+Node id=-964 lat=-26.21552538581164 lon=28.303874602523486 (projected: x=3150772.908229583, y=-3025799.265439247); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2348
+    -2312
+    -2318
+
+Node id=-974 lat=-26.215242382600604 lon=28.305778462179436 (projected: x=3150984.844917025, y=-3025764.1496483944); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2330
+    -2336
+    -2338
+
+Node id=-976 lat=-26.217594389486504 lon=28.305709478288797 (projected: x=3150977.1656654463, y=-3026055.9955108366); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1848
+    -2334
+    -2342
+
+Node id=-970 lat=-26.216123164924735 lon=28.305326886437935 (projected: x=3150934.5757354265, y=-3025873.439741657); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2324
+    -2326
+    -2332
+
+Node id=-972 lat=-26.215839452199106 lon=28.305857080308243 (projected: x=3150993.5966470907, y=-3025838.2357316017); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2326
+    -2328
+    -2330
+
+Node id=-982 lat=-26.21526526518445 lon=28.306118543824653 (projected: x=3151022.702632598, y=-3025766.9889770625); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2336
+
+Node id=-984 lat=-26.214501295809434 lon=28.30824911049694 (projected: x=3151259.876229659, y=-3025672.194033645); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2052
+    -2352
+
+Node id=-978 lat=-26.21688991713547 lon=28.307062270390123 (projected: x=3151127.7577933148, y=-3025968.581312492); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2336
+
+Node id=-980 lat=-26.216836525178326 lon=28.307155792842558 (projected: x=3151138.168665098, y=-3025961.9562122673); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2336
+
+Node id=-990 lat=-26.214894592098034 lon=28.309378287834573 (projected: x=3151385.575675899, y=-3025720.994995127); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2372
+    -2354
+    -2356
+
+Node id=-992 lat=-26.21459664048631 lon=28.31001594091935 (projected: x=3151456.5588925993, y=-3025684.024569763); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2054
+    -2372
+    -2358
+
+Node id=-986 lat=-26.215204460964934 lon=28.30878048806759 (projected: x=3151319.0289102425, y=-3025759.4442375056); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2052
+    -2370
+    -2354
+
+Node id=-988 lat=-26.215454739062732 lon=28.308355386011073 (projected: x=3151271.706765776, y=-3025790.499394813); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2370
+
+Node id=-570 lat=-26.209776664891564 lon=28.30787940718379 (projected: x=3151218.7210450945, y=-3025085.9656144893); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2084
+    -2078
+    -2076
+
+Node id=-572 lat=-26.209770569967258 lon=28.3087285823253 (projected: x=3151313.2507894416, y=-3025085.209376535); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2072
+
+Node id=-574 lat=-26.20986808871784 lon=28.308714995523033 (projected: x=3151311.738313532, y=-3025097.309183812); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2072
+
+Node id=-576 lat=-26.210154549575158 lon=28.308130763025684 (projected: x=3151246.7018494224, y=-3025132.8523676884); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2072
+    -2070
+    -2074
+
+Node id=-562 lat=-26.209356114365747 lon=28.307600877737375 (projected: x=3151187.7152889483, y=-3025033.7851956105); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2080
+    -2076
+    -2090
+
+Node id=-564 lat=-26.208551578691022 lon=28.307050612245675 (projected: x=3151126.4600146115, y=-3024933.9617855805); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2082
+
+Node id=-566 lat=-26.208990417021163 lon=28.307335935093224 (projected: x=3151158.2220087126, y=-3024988.410918323); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2082
+    -2080
+
+Node id=-568 lat=-26.20884413776162 lon=28.307655224946433 (projected: x=3151193.765192587, y=-3024970.261207409); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2082
+
+Node id=-554 lat=-26.214170069942863 lon=28.310780746738384 (projected: x=3151541.69668693, y=-3025631.0950177033); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2058
+    -2054
+
+Node id=-556 lat=-26.209904658228254 lon=28.306588660968693 (projected: x=3151075.0358336866, y=-3025101.846611542); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2090
+
+Node id=-558 lat=-26.210398345494088 lon=28.30692153762417 (projected: x=3151112.091493471, y=-3025163.1018858766); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2090
+
+Node id=-560 lat=-26.20986199379833 lon=28.30787940718379 (projected: x=3151218.7210450945, y=-3025096.552945859); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2078
+    -2074
+    -2090
+
+Node id=-546 lat=-26.211635574139724 lon=28.302905190282658 (projected: x=3150664.9937525652, y=-3025316.61474495); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2034
+
+Node id=-548 lat=-26.212083238307077 lon=28.302048202729846 (projected: x=3150569.5943345698, y=-3025372.1604227293); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2034
+    -2030
+
+Node id=-550 lat=-26.212385235421415 lon=28.301495559547753 (projected: x=3150508.074376949, y=-3025409.632013388); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2034
+    -2004
+
+Node id=-552 lat=-26.212067381495288 lon=28.307248178149703 (projected: x=3151148.4529504455, y=-3025370.1929233046); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2056
+
+Node id=-540 lat=-26.208395813150556 lon=28.30656645932505 (projected: x=3151072.5643580216, y=-3024914.6351307645); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2008
+
+Node id=-538 lat=-26.208247009431076 lon=28.306359141175268 (projected: x=3151049.4858071553, y=-3024896.1722900704); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2008
+
+Node id=-544 lat=-26.20912688594968 lon=28.303842498764777 (projected: x=3150769.334455511, y=-3025005.343425485); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2008
+    -2006
+    -2010
+    -2716
+
+Node id=-542 lat=-26.208427031555896 lon=28.307012833502785 (projected: x=3151122.25450419, y=-3024918.5085614305); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2082
+    -2008
+
+Node id=-532 lat=-26.20895382540433 lon=28.304182300602548 (projected: x=3150807.161023062, y=-3024983.870783361); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2008
+
+Node id=-530 lat=-26.210147278152917 lon=28.301828360573555 (projected: x=3150545.1216176767, y=-3025131.950150853); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2006
+    -2000
+
+Node id=-536 lat=-26.20830281084817 lon=28.305882309430764 (projected: x=3150996.405140163, y=-3024903.09585533); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2008
+
+Node id=-534 lat=-26.20841441360211 lon=28.305301818611373 (projected: x=3150931.785197738, y=-3024916.9429858513); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2008
+
+Node id=-524 lat=-26.212844607936535 lon=28.296845237801538 (projected: x=3149990.4029281354, y=-3025466.63082012); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1948
+    -1996
+    -1994
+    -2722
+
+Node id=-522 lat=-26.213049035748725 lon=28.296436257175436 (projected: x=3149944.8754130933, y=-3025491.996235346); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1994
+    -1992
+
+Node id=-528 lat=-26.211351767080817 lon=28.299647686123055 (projected: x=3150302.3700482612, y=-3025281.4003877267); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2000
+    -1998
+    -1982
+    -2718
+
+Node id=-526 lat=-26.21210669025933 lon=28.298238727555848 (projected: x=3150145.525498011, y=-3025375.0703210756); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1958
+    -1996
+    -1998
+    -2720
+
+Node id=-516 lat=-26.212324350189512 lon=28.300482799330666 (projected: x=3150395.334425287, y=-3025402.0774085843); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1990
+
+Node id=-514 lat=-26.21175664233432 lon=28.30045248360827 (projected: x=3150391.9596945075, y=-3025331.6367323697); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1988
+
+Node id=-520 lat=-26.21418508249595 lon=28.294389586333917 (projected: x=3149717.041057194, y=-3025632.9577958933); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -1992
+    -2698
+
+Node id=-518 lat=-26.2127621157263 lon=28.300772328494226 (projected: x=3150427.564664345, y=-3025456.395194331); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2004
+    -2002
+    -1980
+
+Node id=-638 lat=-26.211491706188884 lon=28.309015503111997 (projected: x=3151345.190665315, y=-3025298.763813127); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2062
+    -2060
+    -2118
+
+Node id=-640 lat=-26.20971357327321 lon=28.31231230240469 (projected: x=3151712.1886838246, y=-3025078.1374180494); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1832
+    -2118
+
+Node id=-634 lat=-26.20930132244535 lon=28.311930374775784 (projected: x=3151669.672694655, y=-3025026.9868221846); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2112
+    -2122
+
+Node id=-636 lat=-26.211238082409157 lon=28.308832443538908 (projected: x=3151324.812566854, y=-3025267.2945870557); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2064
+    -2062
+    -2128
+
+Node id=-630 lat=-26.210540836345494 lon=28.308398882583482 (projected: x=3151276.548782068, y=-3025180.781782954); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2068
+    -2066
+    -2116
+
+Node id=-632 lat=-26.211044407863078 lon=28.308708898253734 (projected: x=3151311.059568618, y=-3025243.2638105666); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2064
+    -2116
+    -2122
+
+Node id=-626 lat=-26.219948155767362 lon=28.318712749233462 (projected: x=3152424.683165653, y=-3026348.0655919393); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2540
+
+Node id=-628 lat=-26.210312001014803 lon=28.308228841760872 (projected: x=3151257.619924281, y=-3025152.388496274); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2070
+    -2068
+    -2124
+
+Node id=-622 lat=-26.216458750353336 lon=28.31885422094518 (projected: x=3152440.4317245632, y=-3025915.0803984744); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2540
+
+Node id=-624 lat=-26.217102857089532 lon=28.318759513660297 (projected: x=3152429.8889578353, y=-3025995.003834305); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2540
+
+Node id=-618 lat=-26.207088728834634 lon=28.32183383013269 (projected: x=3152772.1203020797, y=-3024752.459282524); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2712
+    -2540
+    -2112
+
+Node id=-620 lat=-26.214804260649384 lon=28.31933588211405 (projected: x=3152494.050000617, y=-3025709.7864802936); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2540
+
+Node id=-614 lat=-26.223277286221666 lon=28.319516196384086 (projected: x=3152514.1224933397, y=-3026761.1750662364); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2710
+    -2540
+    -2114
+
+Node id=-616 lat=-26.221310446737814 lon=28.318902630650186 (projected: x=3152445.820668274, y=-3026517.1098985053); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2540
+
+Node id=-610 lat=-26.207832615630405 lon=28.316970520530887 (projected: x=3152230.739153637, y=-3024844.7564501762); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2112
+
+Node id=-612 lat=-26.207741792630895 lon=28.319197570968008 (projected: x=3152478.6532742684, y=-3024833.4876265107); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2112
+
+Node id=-608 lat=-26.207878027103593 lon=28.314439781397798 (projected: x=3151949.018562011, y=-3024850.39086201); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2112
+
+Node id=-606 lat=-26.208023784879618 lon=28.311206132669344 (projected: x=3151589.0504321554, y=-3024868.47571931); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2112
+    -2110
+
+Node id=-604 lat=-26.209179653350525 lon=28.312001888402353 (projected: x=3151677.6335551497, y=-3025011.890594343); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2112
+
+Node id=-602 lat=-26.208074937440276 lon=28.310738740379357 (projected: x=3151537.020560433, y=-3024874.8224650403); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2110
+    -2108
+    -2106
+
+Node id=-600 lat=-26.20843386917001 lon=28.310785037408078 (projected: x=3151542.1743220957, y=-3024919.3569400785); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2102
+    -2098
+    -2108
+
+Node id=-598 lat=-26.208160648532633 lon=28.308743178796806 (projected: x=3151314.8756612167, y=-3024885.4570612786); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2106
+
+Node id=-596 lat=-26.2082082657789 lon=28.30720404885282 (projected: x=3151143.540499588, y=-3024891.365170301); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2106
+
+Node id=-594 lat=-26.20832254709044 lon=28.306981140378177 (projected: x=3151118.726441697, y=-3024905.5446319543); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2082
+    -2008
+    -2106
+
+Node id=-592 lat=-26.209058324057448 lon=28.311201588385284 (projected: x=3151588.5445647677, y=-3024996.8365434967); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2098
+    -2094
+
+Node id=-590 lat=-26.209611001687932 lon=28.31015493246957 (projected: x=3151472.0313611943, y=-3025065.41068876); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2066
+    -2096
+    -2094
+
+Node id=-588 lat=-26.208995588599123 lon=28.309747736005708 (projected: x=3151426.7024581847, y=-3024989.052586227); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2100
+    -2096
+    -2092
+
+Node id=-586 lat=-26.208811523556655 lon=28.310062338412145 (projected: x=3151461.7238378716, y=-3024966.214578114); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2086
+    -2102
+    -2100
+
+Node id=-584 lat=-26.2087659788494 lon=28.309977302013465 (projected: x=3151452.2576292716, y=-3024960.5635899967); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2086
+
+Node id=-582 lat=-26.208841702819882 lon=28.30816099111319 (projected: x=3151250.066824731, y=-3024969.959090346); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2088
+    -2086
+    -2082
+
+Node id=-580 lat=-26.209581627155497 lon=28.30866744171511 (projected: x=3151306.4446478486, y=-3025061.765999937); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2072
+    -2104
+    -2092
+
+Node id=-578 lat=-26.209429253696783 lon=28.308538367093604 (projected: x=3151292.0761267077, y=-3025042.8600510675); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -2088
+    -2084
+    -2104
+
+Node id=-690 lat=-26.209808044212092 lon=28.304266935222447 (projected: x=3150816.582505853, y=-3025089.8590569366); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2170
+
+Node id=-692 lat=-26.210525063182505 lon=28.30372280459011 (projected: x=3150756.0101609356, y=-3025178.824688535); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2146
+    -2142
+    -2144
+
+Node id=-694 lat=-26.21092338896386 lon=28.30343819983374 (projected: x=3150724.3281043796, y=-3025228.2480315454); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1826
+    -2144
+    -2168
+
+Node id=-696 lat=-26.210357250627908 lon=28.303484747438453 (projected: x=3150729.509760034, y=-3025158.0029449677); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2146
+
+Node id=-698 lat=-26.210613622730882 lon=28.30300489052431 (projected: x=3150676.092332698, y=-3025189.812938145); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2022
+    -2146
+    -2156
+
+Node id=-700 lat=-26.20954869583711 lon=28.304139404605497 (projected: x=3150802.385862513, y=-3025057.6799986986); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2012
+    -2014
+    -2148
+
+Node id=-702 lat=-26.210269721989395 lon=28.302812364157937 (projected: x=3150654.660395629, y=-3025147.142631977); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2020
+    -2022
+    -2148
+    -2160
+
+Node id=-704 lat=-26.2092353036427 lon=28.303929019670885 (projected: x=3150778.9659187216, y=-3025018.795464088); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2012
+    -2010
+    -2716
+    -2150
+
+Node id=-674 lat=-26.21094459351038 lon=28.30403738011193 (projected: x=3150791.0285478407, y=-3025230.8790474464); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2134
+
+Node id=-676 lat=-26.211152870878934 lon=28.30383290388181 (projected: x=3150768.2663580244, y=-3025256.7216943726); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1826
+    -2134
+    -2136
+
+Node id=-678 lat=-26.210826818521653 lon=28.305091205969106 (projected: x=3150908.339905646, y=-3025216.265778574); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2016
+    -2136
+
+Node id=-680 lat=-26.211371750108636 lon=28.304156408687753 (projected: x=3150804.2787482915, y=-3025283.8798492486); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2136
+
+Node id=-682 lat=-26.210189437831364 lon=28.304624020949923 (projected: x=3150856.3331072046, y=-3025137.1812014026); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2018
+    -2138
+    -2140
+
+Node id=-684 lat=-26.21040301771225 lon=28.304232927057924 (projected: x=3150812.7967342953, y=-3025163.681602304); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2138
+
+Node id=-686 lat=-26.21025046069447 lon=28.303952359700624 (projected: x=3150781.5641189474, y=-3025144.752744518); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2142
+    -2138
+    -2170
+
+Node id=-688 lat=-26.20970163709013 lon=28.304265063917033 (projected: x=3150816.3741930868, y=-3025076.656416956); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2014
+    -2140
+    -2170
+
+Node id=-660 lat=-26.212175599494447 lon=28.307263629888844 (projected: x=3151150.173030179, y=-3025383.620523919); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2056
+    -2368
+
+Node id=-658 lat=-26.21110771243514 lon=28.307896181748944 (projected: x=3151220.5883811456, y=-3025251.1185194105); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2130
+
+Node id=-664 lat=-26.211504357343877 lon=28.306549458433896 (projected: x=3151070.6718274746, y=-3025300.333549656); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2126
+
+Node id=-662 lat=-26.21215729294169 lon=28.307005167838483 (projected: x=3151121.401166343, y=-3025381.3490609815); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2368
+    -2126
+
+Node id=-668 lat=-26.21129688171408 lon=28.30642022740871 (projected: x=3151056.2858955567, y=-3025274.590303067); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2126
+
+Node id=-666 lat=-26.211400619575212 lon=28.30642022740871 (projected: x=3151056.2858955567, y=-3025287.4619263625); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2126
+
+Node id=-672 lat=-26.210505154139742 lon=28.30486798680607 (projected: x=3150883.491262082, y=-3025176.3544249274); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2018
+    -2016
+    -2134
+
+Node id=-670 lat=-26.21118093928927 lon=28.306529053535176 (projected: x=3151068.40036454, y=-3025260.2043711483); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2126
+
+Node id=-644 lat=-26.210212952633018 lon=28.31257690676317 (projected: x=3151741.6443062723, y=-3025140.0988505725); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2120
+
+Node id=-642 lat=-26.210108924868887 lon=28.31259660521028 (projected: x=3151743.8371273745, y=-3025127.191388323); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1832
+    -2120
+
+Node id=-648 lat=-26.211180792576233 lon=28.309586558201232 (projected: x=3151408.760227063, y=-3025260.186167263); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2118
+
+Node id=-646 lat=-26.211977203490793 lon=28.309311416653536 (projected: x=3151378.1316100773, y=-3025359.003719977); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2060
+    -2058
+    -2120
+
+Node id=-652 lat=-26.211931511887638 lon=28.30755610010373 (projected: x=3151182.7306655725, y=-3025353.3343514586); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2056
+    -1830
+    -2132
+
+Node id=-650 lat=-26.21099299617931 lon=28.306926249140542 (projected: x=3151112.6159770745, y=-3025236.8847514405); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1828
+    -2126
+    -2124
+
+Node id=-656 lat=-26.211467744024326 lon=28.30724322499013 (projected: x=3151147.9015672444, y=-3025295.790623789); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1830
+    -1828
+    -2130
+
+Node id=-654 lat=-26.211540970651914 lon=28.30821585849544 (projected: x=3151256.174633784, y=-3025304.876475525); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2130
+    -2132
+    -2128
+
+Node id=-758 lat=-26.213969149738084 lon=28.29757547744117 (projected: x=3150071.6928329766, y=-3025606.16458608); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1942
+    -1940
+    -2186
+    -2192
+
+Node id=-760 lat=-26.21500650036754 lon=28.29562340879763 (projected: x=3149854.389545584, y=-3025734.880819029); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1906
+    -1908
+    -2186
+
+Node id=-754 lat=-26.214323004322537 lon=28.297815850908567 (projected: x=3150098.451084967, y=-3025650.0713366666); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1940
+    -1938
+    -2184
+    -2182
+
+Node id=-756 lat=-26.215287193654056 lon=28.295956688809948 (projected: x=3149891.4901068467, y=-3025769.7099173577); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1904
+    -1906
+    -2184
+
+Node id=-766 lat=-26.2133068627867 lon=28.297140482554994 (projected: x=3150023.2694237493, y=-3025523.9874932533); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1944
+    -1946
+    -2194
+    -2196
+
+Node id=-768 lat=-26.214439009698292 lon=28.29499506216519 (projected: x=3149784.4423184185, y=-3025664.465468061); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1910
+    -1912
+    -2196
+
+Node id=-762 lat=-26.213633534319264 lon=28.297351023555326 (projected: x=3150046.7067406974, y=-3025564.521098947); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1944
+    -1942
+    -2174
+    -2188
+
+Node id=-764 lat=-26.21472392005472 lon=28.29528765582793 (projected: x=3149817.0136959646, y=-3025699.8176588025); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1910
+    -1908
+    -2174
+
+Node id=-742 lat=-26.212897880383643 lon=28.29876179044216 (projected: x=3150203.752592168, y=-3025473.2408642666); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1962
+    -1964
+    -2188
+    -2190
+
+Node id=-744 lat=-26.212718022898986 lon=28.29979813611819 (projected: x=3150319.1180651095, y=-3025450.924163388); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2176
+
+Node id=-738 lat=-26.212171473492354 lon=28.29929316801281 (projected: x=3150262.9052727516, y=-3025383.1085727313); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2178
+
+Node id=-740 lat=-26.212553888456547 lon=28.298536602461233 (projected: x=3150178.6847807984, y=-3025430.5584063055); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1960
+    -1962
+    -2178
+    -2194
+
+Node id=-750 lat=-26.21331012218172 lon=28.299765603236356 (projected: x=3150315.4965212694, y=-3025524.3919204427); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1968
+    -1978
+    -2180
+
+Node id=-752 lat=-26.213590819560153 lon=28.299207869338204 (projected: x=3150253.409867729, y=-3025559.2210187665); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1950
+    -1966
+    -2180
+    -2182
+
+Node id=-746 lat=-26.212787779170906 lon=28.299817295646427 (projected: x=3150321.2508940366, y=-3025459.5795113794); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2176
+
+Node id=-748 lat=-26.213222455902024 lon=28.29898092256676 (projected: x=3150228.1462686947, y=-3025513.5142533244); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1964
+    -1966
+    -2176
+    -2192
+
+Node id=-728 lat=-26.212409123891543 lon=28.3005437048433 (projected: x=3150402.11439594, y=-3025412.5960821975); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2002
+    -1990
+    -2154
+
+Node id=-726 lat=-26.21197662302337 lon=28.3004554714424 (projected: x=3150392.292298681, y=-3025358.9316961444); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1972
+    -1988
+    -1990
+    -2158
+
+Node id=-724 lat=-26.211594480388726 lon=28.300354292537744 (projected: x=3150381.0291145355, y=-3025311.5158882067); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1986
+    -1988
+    -2162
+
+Node id=-722 lat=-26.21127749356014 lon=28.30013746889005 (projected: x=3150356.8924164823, y=-3025272.1846540663); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1986
+    -1984
+    -2166
+
+Node id=-736 lat=-26.212177575676183 lon=28.299432016972027 (projected: x=3150278.3618681887, y=-3025383.8657270437); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2178
+
+Node id=-734 lat=-26.212464759340676 lon=28.299598869529206 (projected: x=3150296.935809891, y=-3025419.499301825); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1970
+    -2178
+    -2176
+    -2190
+
+Node id=-732 lat=-26.212244348597224 lon=28.298323081841996 (projected: x=3150154.9157741913, y=-3025392.1508627124); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1960
+    -1958
+    -2720
+    -2172
+    -2198
+
+Node id=-730 lat=-26.211495640135976 lon=28.299720602524914 (projected: x=3150310.487064987, y=-3025299.2519314224); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1974
+    -1982
+    -1984
+    -2718
+    -2172
+
+Node id=-712 lat=-26.211173427597274 lon=28.302813086189158 (projected: x=3150654.7407717765, y=-3025259.272334127); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2152
+
+Node id=-710 lat=-26.21134441612994 lon=28.3031151001591 (projected: x=3150688.360813123, y=-3025280.4882938294); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2034
+    -2032
+    -2152
+
+Node id=-708 lat=-26.211284464612266 lon=28.303170871836176 (projected: x=3150694.569287816, y=-3025273.049610252); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2036
+    -2032
+    -2168
+
+Node id=-706 lat=-26.20996292850366 lon=28.30259058905734 (projected: x=3150629.9725043597, y=-3025109.0766036343); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2020
+    -2150
+    -2164
+
+Node id=-720 lat=-26.210701151110776 lon=28.30115778150537 (projected: x=3150470.47309727, y=-3025200.6732511357); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2024
+    -2164
+    -2166
+
+Node id=-718 lat=-26.211043755003274 lon=28.301393245320387 (projected: x=3150496.6848092573, y=-3025243.1828050083); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2026
+    -2024
+    -2162
+    -2160
+
+Node id=-716 lat=-26.21138002567603 lon=28.301593978939657 (projected: x=3150519.03037354, y=-3025284.9066682886); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2026
+    -2028
+    -2156
+    -2158
+
+Node id=-714 lat=-26.211699744289614 lon=28.301801343294645 (projected: x=3150542.1140679456, y=-3025324.5768934893); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2030
+    -2028
+    -2152
+    -2154
+
+Node id=-1346 lat=-26.216275918858962 lon=28.35943172342787 (projected: x=3156957.4986385987, y=-3025892.3939888123); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-270 lat=-26.21879638087086 lon=28.293594176790574 (projected: x=3149628.496471857, y=-3026205.1454014783); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1674
+    -1676
+    -1668
+
+Node id=-1348 lat=-26.216005904422513 lon=28.359297995096956 (projected: x=3156942.612068897, y=-3025858.8896616683); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-272 lat=-26.21850158198894 lon=28.294042619677843 (projected: x=3149678.4169057175, y=-3026168.5649459166); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1676
+    -1682
+    -1670
+    -2652
+
+Node id=-266 lat=-26.220205071238915 lon=28.29616438536864 (projected: x=3149914.6107820002, y=-3026379.9456325104); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1648
+    -1644
+    -1650
+    -1732
+
+Node id=-1350 lat=-26.215346383826418 lon=28.358765870656487 (projected: x=3156883.3762471452, y=-3025777.0543870777); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-268 lat=-26.219346586176044 lon=28.292679116636787 (projected: x=3149526.6324414923, y=-3026273.4185023652); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1674
+    -1666
+    -2702
+
+Node id=-1352 lat=-26.21459217061156 lon=28.35789592647684 (projected: x=3156786.5345040485, y=-3025683.4699395816); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-262 lat=-26.220250802589412 lon=28.294669570776684 (projected: x=3149748.2087827926, y=-3026385.6203363193); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1664
+    -1662
+    -1668
+
+Node id=-1354 lat=-26.21357267477838 lon=28.35653080244095 (projected: x=3156634.569591504, y=-3025556.9696008707); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-264 lat=-26.220542491708475 lon=28.295574787099138 (projected: x=3149848.977002866, y=-3026421.815457131); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1670
+    -1642
+    -1652
+    -1650
+
+Node id=-1356 lat=-26.21333443598104 lon=28.35632489988219 (projected: x=3156611.6486235093, y=-3025527.408787855); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+    -2712
+    -2714
+
+Node id=-258 lat=-26.219448151490464 lon=28.29336667757496 (projected: x=3149603.171375019, y=-3026286.0214313376); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1666
+
+Node id=-1358 lat=-26.21290040863554 lon=28.356786270152256 (projected: x=3156663.00812704, y=-3025473.554569785); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2714
+
+Node id=-260 lat=-26.22052677705579 lon=28.293850818023902 (projected: x=3149657.0656432672, y=-3026419.865454919); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1664
+    -1658
+    -1666
+
+Node id=-1360 lat=-26.21203410626978 lon=28.357005578592222 (projected: x=3156687.421430904, y=-3025366.064163113); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2714
+
+Node id=-1362 lat=-26.21103513123825 lon=28.357074473507186 (projected: x=3156695.090777756, y=-3025242.1127852635); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  tags:
+    "description"="Dumpsite"
+  way referrer:
+    -2714
+
+Node id=-286 lat=-26.217181236072047 lon=28.297264774220654 (projected: x=3150037.105508681, y=-3026004.7294537984); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1694
+    -2644
+    -2646
+
+Node id=-1364 lat=-26.20678695144831 lon=28.323205449236564 (projected: x=3152924.8082422856, y=-3024715.016659435); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-288 lat=-26.218241567640586 lon=28.295499117223788 (projected: x=3149840.5534708737, y=-3026136.300845812); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1694
+    -2554
+    -2556
+
+Node id=-1366 lat=-26.20624784730792 lon=28.324715148985412 (projected: x=3153092.867249578, y=-3024648.128280309); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2712
+
+Node id=-282 lat=-26.217631124831094 lon=28.297559341259575 (projected: x=3150069.896561458, y=-3026060.553817379); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1692
+    -2642
+    -2644
+
+Node id=-1368 lat=-26.20594934986862 lon=28.325571686891223 (projected: x=3153188.216613098, y=-3024611.0928792404); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-284 lat=-26.218671180952512 lon=28.2958226118191 (projected: x=3149876.5647244984, y=-3026189.609815462); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1692
+    -2554
+    -2552
+
+Node id=-1370 lat=-26.20581260707509 lon=28.32624510917674 (projected: x=3153263.1816390106, y=-3024594.1268551922); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-278 lat=-26.21805995755449 lon=28.297902702638037 (projected: x=3150108.119375266, y=-3026113.765647604); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1690
+    -2642
+    -2640
+
+Node id=-1372 lat=-26.20581567815347 lon=28.32677684686399 (projected: x=3153322.374407591, y=-3024594.5078914296); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-280 lat=-26.21915837508861 lon=28.296166901580897 (projected: x=3149914.8908854667, y=-3026250.063993731); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1690
+    -1654
+    -2552
+
+Node id=-1374 lat=-26.20594066920016 lon=28.327266421462443 (projected: x=3153376.8736025956, y=-3024610.015846169); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-274 lat=-26.218177433803017 lon=28.29459545954489 (projected: x=3149739.958758208, y=-3026128.342755476); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1672
+    -2650
+    -2652
+    -1732
+
+Node id=-1376 lat=-26.206391015745687 lon=28.328508085845737 (projected: x=3153515.0950494804, y=-3024665.891617186); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-276 lat=-26.218024982433082 lon=28.293697529843804 (projected: x=3149640.001681114, y=-3026109.42574239); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1678
+    -1682
+    -1684
+
+Node id=-1380 lat=-26.20676864075959 lon=28.330127131286286 (projected: x=3153695.3263634937, y=-3024712.7447884968); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-304 lat=-26.21674805010545 lon=28.295799788045947 (projected: x=3149874.023993693, y=-3025950.9778571115); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1698
+    -1688
+    -1712
+
+Node id=-1378 lat=-26.20673602166677 lon=28.32957498412702 (projected: x=3153633.861622881, y=-3024708.6976249013); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2712
+
+Node id=-302 lat=-26.21505956104835 lon=28.29305439554839 (projected: x=3149568.408298837, y=-3025741.464709526); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1704
+    -2700
+    -1718
+    -1710
+
+Node id=-1384 lat=-26.206499817840093 lon=28.33193220990991 (projected: x=3153896.266796717, y=-3024679.3910335237); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-300 lat=-26.215915891074424 lon=28.29372802943824 (projected: x=3149643.3968804358, y=-3025847.7205107305); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1716
+    -1708
+    -1706
+    -1710
+
+Node id=-1382 lat=-26.20672569307311 lon=28.330906215878677 (projected: x=3153782.0536636035, y=-3024707.4161208225); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-298 lat=-26.21588569017174 lon=28.293784473289552 (projected: x=3149649.680181223, y=-3025843.973085781); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1706
+
+Node id=-1388 lat=-26.20574628074546 lon=28.33552566993682 (projected: x=3154296.288937099, y=-3024585.897586992); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-296 lat=-26.215052567312735 lon=28.293200738408117 (projected: x=3149584.699111463, y=-3025740.596910662); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1704
+
+Node id=-1386 lat=-26.206115784021062 lon=28.33341918782338 (projected: x=3154061.796420865, y=-3024631.742812135); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-294 lat=-26.216394456721353 lon=28.296298971593263 (projected: x=3149929.5928519927, y=-3025907.102602187); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1698
+    -1700
+    -2648
+
+Node id=-1392 lat=-26.20664728808552 lon=28.336141390007747 (projected: x=3154364.8305818657, y=-3024697.6881485055); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-292 lat=-26.21781111987001 lon=28.295165689236896 (projected: x=3149803.4364371565, y=-3026082.888528999); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1696
+    -2650
+    -2654
+    -2556
+
+Node id=-1390 lat=-26.205791276450885 lon=28.336128476916457 (projected: x=3154363.3931031185, y=-3024591.480312524); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-290 lat=-26.21677512040198 lon=28.29684369094625 (projected: x=3149990.2307329923, y=-3025954.336851247); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1696
+    -2646
+    -2648
+
+Node id=-1396 lat=-26.204746185217143 lon=28.343739143467108 (projected: x=3155210.6086281342, y=-3024461.813883342); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-320 lat=-26.215317939784462 lon=28.295227855929724 (projected: x=3149810.356801747, y=-3025773.524976296); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1718
+
+Node id=-1394 lat=-26.2064705034362 lon=28.340727950254728 (projected: x=3154875.404133052, y=-3024675.753902454); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2712
+
+Node id=-318 lat=-26.215828651296203 lon=28.295772726054643 (projected: x=3149871.0114666014, y=-3025836.895521667); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1718
+
+Node id=-1400 lat=-26.20710997584814 lon=28.345896055779885 (projected: x=3155450.7150084786, y=-3024755.0954807876); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-316 lat=-26.216113189594697 lon=28.29562634303601 (projected: x=3149854.7161835064, y=-3025872.2019683723); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1702
+    -1700
+    -1718
+
+Node id=-1398 lat=-26.206867469284024 lon=28.345436573786092 (projected: x=3155399.565706901, y=-3024725.006792048); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-314 lat=-26.21586273989654 lon=28.293756031278786 (projected: x=3149646.5140310675, y=-3025841.125342617); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1716
+
+Node id=-1404 lat=-26.208257070111898 lon=28.348217054150485 (projected: x=3155709.0873652254, y=-3024897.420569598); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-312 lat=-26.21541886122625 lon=28.29400846846913 (projected: x=3149674.6152105536, y=-3025786.0475754477); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1702
+    -1704
+    -1716
+
+Node id=-1402 lat=-26.20762080092333 lon=28.346938526124568 (projected: x=3155566.7622764152, y=-3024818.4756473405); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-310 lat=-26.21690113817456 lon=28.294487808446625 (projected: x=3149727.9750927654, y=-3025969.9736669445); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -2658
+    -2656
+    -1714
+    -1708
+
+Node id=-1408 lat=-26.209653193507766 lon=28.351521022519897 (projected: x=3156076.8834417057, y=-3025070.6457032003); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2712
+
+Node id=-308 lat=-26.216480248225018 lon=28.29516854022939 (projected: x=3149803.7538081896, y=-3025917.747936435); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1714
+    -1706
+    -1712
+
+Node id=-1406 lat=-26.208870363027216 lon=28.34984485390236 (projected: x=3155890.2932047183, y=-3024973.515125602); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-306 lat=-26.217325909266258 lon=28.294818507048536 (projected: x=3149764.7882927363, y=-3026022.681176838); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1688
+    -2654
+    -2656
+
+Node id=-10086 lat=-26.2307644867975 lon=28.28981599439746 (projected: x=3149207.9111317317, y=-3027690.299759472); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10136
+
+Node id=-1286 lat=-26.230315632442313 lon=28.34763745250234 (projected: x=3155644.566404891, y=-3027634.597460487); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-330 lat=-26.216952208731716 lon=28.292348989896578 (projected: x=3149489.882900875, y=-3025976.310721481); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1724
+    -1726
+
+Node id=-1288 lat=-26.23068800306776 lon=28.34797709463656 (projected: x=3155682.375194324, y=-3027680.8082031263); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-10088 lat=-26.22909809121025 lon=28.288848449626524 (projected: x=3149100.204540511, y=-3027483.5031043296); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10136
+
+Node id=-332 lat=-26.21749939186595 lon=28.292568564424535 (projected: x=3149514.325825518, y=-3026044.2077343785); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1726
+
+Node id=-10082 lat=-26.231701823821258 lon=28.290977048122585 (projected: x=3149337.159041196, y=-3027806.6228779913); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10136
+
+Node id=-1282 lat=-26.23004481669303 lon=28.346090193890902 (projected: x=3155472.32636414, y=-3027600.9896476567); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-334 lat=-26.217899301752986 lon=28.291897276154884 (projected: x=3149439.598357165, y=-3026093.8306038906); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1680
+    -1722
+    -1726
+
+Node id=-10084 lat=-26.231215798159536 lon=28.290396521260025 (projected: x=3149272.535086464, y=-3027746.3071869076); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10136
+
+Node id=-1284 lat=-26.23011252068948 lon=28.346844954189162 (projected: x=3155556.345896214, y=-3027609.3916008645); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-336 lat=-26.21726067442035 lon=28.293895770460146 (projected: x=3149662.06972558, y=-3026014.586530885); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1686
+    -1672
+    -2658
+    -2660
+
+Node id=-1294 lat=-26.23101817971874 lon=28.351617575268794 (projected: x=3156087.631644548, y=-3027721.78284853); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-10094 lat=-26.2277441272128 lon=28.287764799483075 (projected: x=3148979.5731583443, y=-3027315.480822024); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0; modified
+  way referrer:
+    -10098
+    -10118
+    -10136
+
+Node id=-322 lat=-26.214726970809043 lon=28.293804687692997 (projected: x=3149651.9304383215, y=-3025700.1962023685); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1718
+
+Node id=-1296 lat=-26.231416816945714 lon=28.352313162359675 (projected: x=3156165.064045307, y=-3027771.2535490138); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-10096 lat=-26.22979242560696 lon=28.286526342176273 (projected: x=3148841.708721582, y=-3027569.6683773054); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0; modified
+  tags:
+    "description"="Depot"
+  way referrer:
+    -10098
+
+Node id=-324 lat=-26.215022368120966 lon=28.293154096499066 (projected: x=3149579.5069578984, y=-3025736.8497258117); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1718
+
+Node id=-1290 lat=-26.23075819818226 lon=28.34860336454165 (projected: x=3155752.091241258, y=-3027689.5193482125); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-10090 lat=-26.22854262070801 lon=28.28853883529982 (projected: x=3149065.73843132, y=-3027414.570885948); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10136
+
+Node id=-326 lat=-26.21678564168838 lon=28.291410099604608 (projected: x=3149385.366111662, y=-3025955.6423761053); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1738
+    -1724
+    -1720
+
+Node id=-1292 lat=-26.23093151927116 lon=28.35117317240518 (projected: x=3156038.160944063, y=-3027711.0283484235); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-10092 lat=-26.228021864702534 lon=28.28815181739145 (projected: x=3149022.6557948324, y=-3027349.9469312145); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10136
+
+Node id=-328 lat=-26.216529052010113 lon=28.291974899960074 (projected: x=3149448.2393996324, y=-3025923.803698174); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1724
+
+Node id=-1302 lat=-26.232578056730887 lon=28.354477211086856 (projected: x=3156405.964847668, y=-3027915.363850425); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-10102 lat=-26.220094151508196 lon=28.289725891790706 (projected: x=3149197.8809554284, y=-3026366.181853657); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0; modified
+  way referrer:
+    -10103
+    -10104
+    -10118
+
+Node id=-346 lat=-26.216336150400828 lon=28.2932035414298 (projected: x=3149585.01114241, y=-3025899.867737894); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1686
+
+Node id=-1304 lat=-26.232578056730887 lon=28.354844326495932 (projected: x=3156446.831948069, y=-3027915.363850425); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-348 lat=-26.216691019075 lon=28.292667454285997 (projected: x=3149525.334194541, y=-3025943.9012139915); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1740
+    -1728
+
+Node id=-1298 lat=-26.232110095824474 lon=28.353627049086892 (projected: x=3156311.32524674, y=-3027857.289549857); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-350 lat=-26.218313654568398 lon=28.29208596729864 (projected: x=3149460.603359205, y=-3026145.2458059336); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1680
+
+Node id=-1300 lat=-26.232474065581115 lon=28.354168061268687 (projected: x=3156371.550447331, y=-3027902.4584502997); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-352 lat=-26.21832190783655 lon=28.292163930233603 (projected: x=3149469.2821534257, y=-3026146.269919211); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1680
+
+Node id=-1310 lat=-26.232387406218585 lon=28.355926350859523 (projected: x=3156567.2823492503, y=-3027891.703950194); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-10110 lat=-26.219529958085978 lon=28.28387224592653 (projected: x=3148546.256078544, y=-3026296.1725693615); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10118
+
+Node id=-338 lat=-26.215254754053607 lon=28.292393714401637 (projected: x=3149494.8616100037, y=-3025765.6847293894); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1686
+    -2674
+    -2696
+    -2684
+
+Node id=-1312 lat=-26.231812896624746 lon=28.35740686699414 (projected: x=3156732.092651467, y=-3027820.4070269195); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-10112 lat=-26.219399759215378 lon=28.284694658981827 (projected: x=3148637.8066810817, y=-3026280.01658068); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10118
+
+Node id=-340 lat=-26.21593925652259 lon=28.29103316920684 (projected: x=3149343.406411718, y=-3025850.619771206); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -2680
+    -1734
+    -2682
+
+Node id=-10105 lat=-26.22443400943295 lon=28.277147809768515 (projected: x=3147797.695269562, y=-3026904.7148097577); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0; modified
+  way referrer:
+    -10118
+
+Node id=-1306 lat=-26.23259538858014 lon=28.355172798177737 (projected: x=3156483.3972484274, y=-3027917.5147504467); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-10106 lat=-26.219703556353462 lon=28.28019557579697 (projected: x=3148136.9710319065, y=-3026317.7138876063); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10118
+
+Node id=-342 lat=-26.21555170001746 lon=28.291803469180465 (projected: x=3149429.15581254, y=-3025802.5305802063); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1736
+    -2684
+    -2682
+
+Node id=-1308 lat=-26.23256072487905 lon=28.355423982404997 (projected: x=3156511.358948702, y=-3027913.212950405); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-10108 lat=-26.219746955879856 lon=28.281066366090815 (projected: x=3148233.906964005, y=-3026323.099217167); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10118
+
+Node id=-344 lat=-26.215985949990287 lon=28.292115752953546 (projected: x=3149463.919083142, y=-3025856.413649639); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1730
+    -1736
+    -1728
+
+Node id=-1320 lat=-26.2290946958129 lon=28.35830020423156 (projected: x=3156831.538497843, y=-3027483.081744733); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-364 lat=-26.21618467048057 lon=28.29054001322999 (projected: x=3149288.508539493, y=-3025881.0715650553); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1744
+    -2680
+    -2678
+
+Node id=-1318 lat=-26.229869997244496 lon=28.357969395535417 (projected: x=3156794.7130422383, y=-3027579.2948678555); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-362 lat=-26.217527305466085 lon=28.291120743084324 (projected: x=3149353.155091166, y=-3026047.671391487); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2662
+    -1742
+    -1744
+
+Node id=-1316 lat=-26.23090864974541 lon=28.35752966670048 (projected: x=3156745.7626522463, y=-3027708.190257828); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-368 lat=-26.215209783647893 lon=28.291591407786647 (projected: x=3149405.549246163, y=-3025760.104689156); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1748
+    -2668
+    -2666
+
+Node id=-1314 lat=-26.23150875270275 lon=28.35726862177126 (projected: x=3156716.7032636516, y=-3027782.6627591583); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-366 lat=-26.21467169084352 lon=28.290508735309103 (projected: x=3149285.0266972673, y=-3025693.3369576237); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1752
+
+Node id=-1328 lat=-26.22656224879219 lon=28.359350595910897 (projected: x=3156948.4675647207, y=-3027168.815367837); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-356 lat=-26.216419108727585 lon=28.29125649682186 (projected: x=3149368.267128102, y=-3025910.1615155544); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1730
+    -1734
+    -1720
+
+Node id=-1326 lat=-26.226979309203678 lon=28.359485193093782 (projected: x=3156963.4508545813, y=-3027220.570398204); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-354 lat=-26.217591018254733 lon=28.29337505275649 (projected: x=3149604.103695962, y=-3026055.5771914953); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1680
+    -1684
+    -2660
+    -1740
+
+Node id=-1324 lat=-26.227098081650546 lon=28.359154128075335 (projected: x=3156926.5968653085, y=-3027235.309475771); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-360 lat=-26.219211393021812 lon=28.291833916429184 (projected: x=3149432.545184763, y=-3026256.642814756); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1678
+    -2702
+    -1742
+    -10103
+
+Node id=-1322 lat=-26.228091280490307 lon=28.35873474639322 (projected: x=3156879.9115100075, y=-3027358.5611650893); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-358 lat=-26.217317978407134 lon=28.291634586208986 (projected: x=3149410.3558461512, y=-3026021.6970783616); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2662
+    -1738
+    -1722
+
+Node id=-10072 lat=-26.23277801627125 lon=28.29446020929796 (projected: x=3149724.90276959, y=-3027940.1790511035); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10136
+
+Node id=-1336 lat=-26.221106046023163 lon=28.359569170269676 (projected: x=3156972.79915104, y=-3026491.7460446926); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-380 lat=-26.215851079169997 lon=28.290378750243896 (projected: x=3149270.556825998, y=-3025839.6784427813); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1754
+    -2678
+    -2676
+
+Node id=-10070 lat=-26.23260443751756 lon=28.294963332578853 (projected: x=3149780.9101970247, y=-3027918.6377328606); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10136
+
+Node id=-1334 lat=-26.221841180560325 lon=28.35950736461635 (projected: x=3156965.9189771833, y=-3026582.968267171); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-378 lat=-26.213863987989228 lon=28.290146945240547 (projected: x=3149244.7524110614, y=-3025593.116001223); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1752
+    -2688
+    -2686
+
+Node id=-10068 lat=-26.231424095120463 lon=28.294537612879637 (projected: x=3149733.5192968873, y=-3027772.1567688); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10104
+    -10136
+    -10069
+
+Node id=-1332 lat=-26.223876487263578 lon=28.359581802411956 (projected: x=3156974.2053546864, y=-3026835.5307607623); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-384 lat=-26.21492936468724 lon=28.29220403253234 (projected: x=3149473.7463209014, y=-3025725.309652949); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1756
+    -2674
+    -2670
+    -2668
+
+Node id=-1330 lat=-26.226215667779396 lon=28.359358262816503 (projected: x=3156949.3210407486, y=-3027125.8066058927); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-382 lat=-26.214077554920525 lon=28.28961432206286 (projected: x=3149185.4610701366, y=-3025619.615632066); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1754
+    -2686
+
+Node id=-10080 lat=-26.232222563347317 lon=28.292215505429386 (projected: x=3149475.0234779585, y=-3027871.246832724); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10136
+
+Node id=-372 lat=-26.214780167690094 lon=28.291336411319854 (projected: x=3149377.163169326, y=-3025706.7969770487); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1746
+    -1750
+    -2666
+
+Node id=-1344 lat=-26.217423615584636 lon=28.360052950941753 (projected: x=3157026.6533691115, y=-3026034.805044036); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-10078 lat=-26.232361426827055 lon=28.2926412251286 (projected: x=3149522.4143780954, y=-3027888.4798873165); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10136
+
+Node id=-370 lat=-26.215586762578962 lon=28.290900650759678 (projected: x=3149328.6545256595, y=-3025806.8812429896); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2664
+    -1748
+    -2676
+
+Node id=-1342 lat=-26.218814311565424 lon=28.36013926513199 (projected: x=3157036.261820817, y=-3026207.3703551586); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-10076 lat=-26.232639153289032 lon=28.29353136631786 (projected: x=3149621.504442018, y=-3027922.94599651); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10136
+
+Node id=-1340 lat=-26.219514593850263 lon=28.360093514700235 (projected: x=3157031.1689060503, y=-3026294.2660663375); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-376 lat=-26.215079513944236 lon=28.290694699632073 (projected: x=3149305.7281510057, y=-3025743.940511208); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -2664
+    -1746
+    -1752
+
+Node id=-10074 lat=-26.232743300541248 lon=28.29403448959875 (projected: x=3149677.511869453, y=-3027935.8707874557); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10136
+
+Node id=-1338 lat=-26.220214607379503 lon=28.3598390247216 (projected: x=3157002.839211217, y=-3026381.1289512687); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2710
+
+Node id=-374 lat=-26.213634041258942 lon=28.290694903009033 (projected: x=3149305.7507908256, y=-3025564.5840004245); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1750
+    -2690
+    -2688
+
+Node id=-390 lat=-26.213061591941845 lon=28.291856050877566 (projected: x=3149435.0091802864, y=-3025493.5542099955); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1758
+    -2694
+    -2692
+
+Node id=-392 lat=-26.214345039476076 lon=28.293246570329746 (projected: x=3149589.8010976412, y=-3025652.8054924356); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1760
+    -2672
+
+Node id=-386 lat=-26.213353201967863 lon=28.291268822717402 (projected: x=3149369.6392405173, y=-3025529.7372805723); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1756
+    -2692
+    -2690
+
+Node id=-388 lat=-26.21459837768231 lon=28.292757822166575 (projected: x=3149535.393900991, y=-3025684.2401242033); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1758
+    -2672
+    -2670
+
+Node id=-398 lat=-26.222930554902387 lon=28.300553082232398 (projected: x=3150403.158282119, y=-3026718.1488673016); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1764
+
+Node id=-400 lat=-26.22294844842634 lon=28.30110207474089 (projected: x=3150464.2718486134, y=-3026720.3692875234); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1762
+    -1764
+    -1766
+
+Node id=-394 lat=-26.21293463148306 lon=28.292440170686596 (projected: x=3149500.03309999, y=-3025477.800941693); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1760
+
+Node id=-396 lat=-26.212888582935836 lon=28.292263202571544 (projected: x=3149480.3330995357, y=-3025472.0872369143); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1760
+    -2694
+
+Node id=-406 lat=-26.221020541319387 lon=28.302692575770816 (projected: x=3150641.3256133716, y=-3026481.135875798); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1768
+
+Node id=-408 lat=-26.22261168709229 lon=28.299858641192 (projected: x=3150325.853459116, y=-3026678.5803893018); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1778
+
+Node id=-402 lat=-26.222836134703247 lon=28.30109281677357 (projected: x=3150463.2412564056, y=-3026706.4322027205); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1766
+
+Node id=-404 lat=-26.222281166955078 lon=28.30158037800132 (projected: x=3150517.5163240097, y=-3026637.566082248); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1766
+
+Node id=-414 lat=-26.221448792320494 lon=28.302963575439136 (projected: x=3150671.493158454, y=-3026534.2770708892); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1774
+    -1766
+    -1768
+
+Node id=-416 lat=-26.223314278893735 lon=28.30109342582893 (projected: x=3150463.3090561386, y=-3026765.7655275064); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1776
+    -1762
+    -1458
+
+Node id=-410 lat=-26.22280777952905 lon=28.300378448104414 (projected: x=3150383.7180999173, y=-3026702.9135923698); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1778
+    -1772
+    -1764
+
+Node id=-412 lat=-26.22193247989001 lon=28.301116925223013 (projected: x=3150465.924996722, y=-3026594.297563958); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1772
+
+Node id=-10123 lat=-26.225432153852857 lon=28.283533605256704 (projected: x=3148508.5587716177, y=-3027028.577389662); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10118
+
+Node id=-424 lat=-26.22188112421598 lon=28.300407961825364 (projected: x=3150387.0035523046, y=-3026587.9248581063); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2632
+    -1778
+    -1770
+
+Node id=-10121 lat=-26.225735935236987 lon=28.284259263834905 (projected: x=3148589.3387150327, y=-3027066.2746965904); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10118
+
+Node id=-422 lat=-26.221499309960343 lon=28.30085008117862 (projected: x=3150436.220053579, y=-3026540.5457620816); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1770
+
+Node id=-10127 lat=-26.225388756447497 lon=28.28000206684278 (projected: x=3148115.4297136622, y=-3027023.1920601013); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10118
+
+Node id=-420 lat=-26.2209521456384 lon=28.301650613311786 (projected: x=3150525.3348830063, y=-3026472.648749186); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1770
+
+Node id=-10125 lat=-26.225432153852857 lon=28.281017988852263 (projected: x=3148228.5216344437, y=-3027028.577389662); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10118
+
+Node id=-418 lat=-26.2213283213862 lon=28.301968284793194 (projected: x=3150560.6979105566, y=-3026519.327945553); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1772
+    -1770
+    -1768
+
+Node id=-432 lat=-26.219989828102005 lon=28.306450805406747 (projected: x=3151059.689822728, y=-3026353.2366097923); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -2420
+
+Node id=-430 lat=-26.220532531453163 lon=28.305324802483554 (projected: x=3150934.343750686, y=-3026420.5795074254); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1780
+
+Node id=-10114 lat=-26.219009161729325 lon=28.289290496643783 (projected: x=3149149.412989379, y=-3026231.5486146305); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10118
+
+Node id=-10119 lat=-26.226083112990157 lon=28.284984922413106 (projected: x=3148670.1186584476, y=-3027109.3573330776); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10118
+
+Node id=-428 lat=-26.220532531453163 lon=28.306097551862333 (projected: x=3151020.365818043, y=-3026420.5795074254); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1780
+
+Node id=-10117 lat=-26.227124640031658 lon=28.28648461680806 (projected: x=3148837.0638748393, y=-3027238.6052425415); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10118
+
+Node id=-426 lat=-26.220529188641578 lon=28.306489722809488 (projected: x=3151064.0220881836, y=-3026420.164704126); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1780
+    -2432
+    -2420
+    -2422
+
+Node id=-440 lat=-26.219572970388946 lon=28.30830948327093 (projected: x=3151266.5968961166, y=-3026301.5098414454); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1792
+    -1788
+    -1786
+
+Node id=-438 lat=-26.219558339341358 lon=28.30899426307672 (projected: x=3151342.8262354033, y=-3026299.6943169087); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1790
+    -1786
+    -1784
+
+Node id=-436 lat=-26.21953640317348 lon=28.309760558724417 (projected: x=3151428.129876702, y=-3026296.9723214763); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1800
+    -1784
+    -1782
+
+Node id=-434 lat=-26.219524215090246 lon=28.3101953314252 (projected: x=3151476.5285523636, y=-3026295.4599378076); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1782
+
+Node id=-448 lat=-26.220050294498726 lon=28.308324853470996 (projected: x=3151268.307898962, y=-3026360.7397400304); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1798
+    -1796
+    -1792
+
+Node id=-10131 lat=-26.22465099807897 lon=28.27787346834672 (projected: x=3147878.4752129777, y=-3026931.641457564); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10118
+
+Node id=-446 lat=-26.22006686945696 lon=28.307003872117928 (projected: x=3151121.2569273906, y=-3026362.796487552); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1796
+
+Node id=-10129 lat=-26.225301961588205 lon=28.279276408264575 (projected: x=3148034.649770247, y=-3027012.42140098); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0
+  way referrer:
+    -10118
+
+Node id=-444 lat=-26.219819183591902 lon=28.30679591598454 (projected: x=3151098.1073565152, y=-3026332.061762578); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1796
+    -1794
+    -2420
+
+Node id=-442 lat=-26.219591176719085 lon=28.307091231431663 (projected: x=3151130.9817217123, y=-3026303.769012808); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1794
+
+Node id=-450 lat=-26.22004133944907 lon=28.309005314339384 (projected: x=3151344.056456336, y=-3026359.6285291375); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1800
+    -1798
+    -1790
+
+Node id=-452 lat=-26.22003126919799 lon=28.309782292636367 (projected: x=3151430.5492847133, y=-3026358.3789356444); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1800
+
+Node id=-454 lat=-26.220469052800247 lon=28.310549847866568 (projected: x=3151515.993142095, y=-3026412.7025609836); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1802
+    -2508
+
+Node id=-456 lat=-26.220036144707528 lon=28.310472502191388 (projected: x=3151507.3830609187, y=-3026358.983926007); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1802
+    -1782
+    -2524
+
+Node id=-458 lat=-26.219633921173767 lon=28.310399132630554 (projected: x=3151499.2155987667, y=-3026309.073051159); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1782
+
+Node id=-1414 lat=-26.212111164318937 lon=28.35480929492796 (projected: x=3156442.932251761, y=-3025375.6254586624); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-460 lat=-26.21959090371961 lon=28.307438483524066 (projected: x=3151169.637647815, y=-3026303.735137082); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1804
+    -1794
+    -1788
+
+Node id=-1410 lat=-26.21018583069075 lon=28.352313020203585 (projected: x=3156165.0482205637, y=-3025136.73363779); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-462 lat=-26.219270687207636 lon=28.30746166680966 (projected: x=3151172.2183993626, y=-3026264.000438888); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1804
+
+Node id=-1412 lat=-26.210853895886274 lon=28.353196690507943 (projected: x=3156263.4179488732, y=-3025219.6254787925); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2712
+
+Node id=-464 lat=-26.218890394347827 lon=28.308097529155617 (projected: x=3151243.002271929, y=-3026216.811190509); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -1804
+
+Node id=-466 lat=-26.218707564516468 lon=28.308852952047054 (projected: x=3151327.0955635374, y=-3026194.1245130687); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1804
+
+Node id=-468 lat=-26.218724625276323 lon=28.30959207740468 (projected: x=3151409.3746219804, y=-3026196.24151814); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -1804
+
+Node id=-470 lat=-26.219095169067362 lon=28.310771408526758 (projected: x=3151540.657161967, y=-3026242.2209702693); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1804
+
+Node id=-472 lat=-26.21991984163556 lon=28.310967026719428 (projected: x=3151562.433279565, y=-3026344.552161789); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1806
+    -1808
+    -2524
+
+Node id=-474 lat=-26.21938491208397 lon=28.310851891344882 (projected: x=3151549.6164682982, y=-3026278.174245671); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1806
+    -1808
+    -1804
+
+Node id=-476 lat=-26.219298211900053 lon=28.311322624856068 (projected: x=3151602.0182830626, y=-3026267.4158904); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1808
+
+Node id=-478 lat=-26.219540102511278 lon=28.31187222414664 (projected: x=3151663.1993962293, y=-3026297.431361535); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1808
+
+Node id=-480 lat=-26.219883393642196 lon=28.31190354588842 (projected: x=3151666.6861165753, y=-3026340.029422257); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1808
+
+Node id=-484 lat=-26.214458319095804 lon=28.301701459532747 (projected: x=3150530.9950584327, y=-3025666.8614101876); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1822
+    -1820
+
+Node id=-482 lat=-26.214473555792217 lon=28.301075192865884 (projected: x=3150461.279371977, y=-3025668.7520050732); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -1820
+    -1810
+
+Node id=-488 lat=-26.216851376033144 lon=28.304334521029183 (projected: x=3150824.106123443, y=-3025963.798968938); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -1846
+
+Node id=-486 lat=-26.219167146576712 lon=28.30531671449424 (projected: x=3150933.443399834, y=-3026251.1524186446); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -1840
+
+Node id=-492 lat=-26.21582530538847 lon=28.301029778232955 (projected: x=3150456.2238381645, y=-3025836.4803509586); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1850
+    -1852
+    -1824
+
+Node id=-490 lat=-26.21583634157915 lon=28.30084279878313 (projected: x=3150435.4093810213, y=-3025837.849756101); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -1850
+
+Node id=-496 lat=-26.219304510446214 lon=28.30162103531938 (projected: x=3150522.042275953, y=-3026268.197457068); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1874
+
+Node id=-494 lat=-26.216408721452993 lon=28.30102791132141 (projected: x=3150456.016014522, y=-3025908.872623496); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1854
+
+Node id=-500 lat=-26.21895104544096 lon=28.300834468162698 (projected: x=3150434.482020597, y=-3026224.3371681687); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1876
+
+Node id=-498 lat=-26.21915425839219 lon=28.30113782069685 (projected: x=3150468.25107023, y=-3026249.553166532); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -1876
+
+Node id=-504 lat=-26.219219735324554 lon=28.300405755757243 (projected: x=3150386.7579739247, y=-3026257.6779839494); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1880
+
+Node id=-502 lat=-26.219070445029345 lon=28.300514837949482 (projected: x=3150398.900948019, y=-3026239.15304837); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -1880
+
+Node id=-508 lat=-26.21445036505646 lon=28.3004973237122 (projected: x=3150396.9512720434, y=-3025665.8744597225); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0
+  way referrer:
+    -1968
+
+Node id=-506 lat=-26.213810421961835 lon=28.299359429022566 (projected: x=3150270.2814146173, y=-3025586.4694744716); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1950
+
+Node id=-512 lat=-26.212837854087123 lon=28.30062588090631 (projected: x=3150411.2621934297, y=-3025465.792802838); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1976
+    -1978
+    -1980
+
+Node id=-510 lat=-26.21213695850948 lon=28.30015985846392 (projected: x=3150359.384812445, y=-3025378.825980749); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  way referrer:
+    -1970
+    -1972
+    -1974
+    -1976
+
+Node id=-32 lat=-26.227013378813844 lon=28.305095821131964 (projected: x=3150908.853663226, y=-3027224.798268029); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1440
+
+Node id=-1108 lat=-26.222205247804155 lon=28.30621879615708 (projected: x=3151033.862671195, y=-3026628.145276744); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2446
+
+Node id=-30 lat=-26.226876594459153 lon=28.305258468930447 (projected: x=3150926.959533332, y=-3027207.8240148034); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1440
+
+Node id=-1106 lat=-26.22283956908309 lon=28.305986896006434 (projected: x=3151008.0476645106, y=-3026706.8583770054); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2478
+    -2476
+    -2446
+
+Node id=-28 lat=-26.227989102543805 lon=28.308358942589038 (projected: x=3151272.102682224, y=-3027345.8812743593); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1432
+    -2562
+    -2564
+
+Node id=-1112 lat=-26.222356318780243 lon=28.307452145250362 (projected: x=3151171.1584642297, y=-3026646.8916763715); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2474
+    -2458
+    -2448
+
+Node id=-26 lat=-26.226520954384082 lon=28.309070526707394 (projected: x=3151351.3158639357, y=-3027163.690956421); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1434
+    -1442
+    -2558
+
+Node id=-1110 lat=-26.222200548270767 lon=28.30676276457456 (projected: x=3151094.4169584373, y=-3026627.562111967); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2440
+    -2448
+    -2446
+
+Node id=-24 lat=-26.227524618882253 lon=28.308584070155895 (projected: x=3151297.16376833, y=-3027288.2407763163); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1430
+    -2560
+    -2562
+
+Node id=-1116 lat=-26.221826633513594 lon=28.31055425820126 (projected: x=3151516.4840983073, y=-3026581.1631308664); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2468
+
+Node id=-22 lat=-26.227460206584702 lon=28.307454214209972 (projected: x=3151171.38877976, y=-3027280.247495226); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1430
+
+Node id=-1114 lat=-26.22221739798924 lon=28.307358686582266 (projected: x=3151160.7546928874, y=-3026629.652992488); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2448
+
+Node id=-20 lat=-26.227058973562986 lon=28.30744404872257 (projected: x=3151170.2571628788, y=-3027230.456352435); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1428
+    -1430
+
+Node id=-1120 lat=-26.2226171717548 lon=28.310160392973444 (projected: x=3151472.6392217055, y=-3026679.2609831053); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2468
+
+Node id=-18 lat=-26.22700411488647 lon=28.308836348786095 (projected: x=3151325.2472969815, y=-3027223.648660417); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1428
+    -1442
+    -2560
+
+Node id=-1118 lat=-26.221929645439335 lon=28.310563321804914 (projected: x=3151517.4930540505, y=-3026593.945837991); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2468
+
+Node id=-16 lat=-26.228366415161492 lon=28.30444255631806 (projected: x=3150836.132556789, y=-3027392.704376469); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1426
+    -2580
+    -2578
+
+Node id=-1092 lat=-26.22270994056014 lon=28.309124306999692 (projected: x=3151357.302658689, y=-3026690.772703393); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2536
+    -2436
+    -2454
+
+Node id=-14 lat=-26.228517996097597 lon=28.308094639916494 (projected: x=3151242.680643301, y=-3027411.515053494); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1426
+    -2564
+    -2566
+
+Node id=-1090 lat=-26.221789374306038 lon=28.30838816026911 (projected: x=3151275.3551794915, y=-3026576.5396540486); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2436
+    -2428
+    -2450
+    -2456
+
+Node id=-12 lat=-26.228928342887443 lon=28.304404567988406 (projected: x=3150831.903715276, y=-3027462.437813165); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1424
+    -1422
+    -2578
+
+Node id=-1096 lat=-26.22165713533533 lon=28.30676272758201 (projected: x=3151094.412840445, y=-3026560.130196889); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2538
+    -2440
+    -2450
+
+Node id=-10 lat=-26.229070804301195 lon=28.307833010863924 (projected: x=3151213.5562303923, y=-3027480.11687331); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1424
+    -2566
+    -2568
+
+Node id=-1094 lat=-26.222377579692722 lon=28.30962075018251 (projected: x=3151412.566461008, y=-3026649.529945267); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2438
+    -2468
+    -2454
+
+Node id=-8 lat=-26.22947322954212 lon=28.304316912700898 (projected: x=3150822.145973305, y=-3027530.0568291065); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1420
+    -1422
+    -2570
+
+Node id=-1100 lat=-26.22166046067754 lon=28.30652760776196 (projected: x=3151068.2394218016, y=-3026560.5428364463); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2538
+    -2444
+    -2442
+
+Node id=-6 lat=-26.2295940134891 lon=28.307596531033642 (projected: x=3151187.231416102, y=-3027545.0458455225); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1420
+    -2568
+
+Node id=-1098 lat=-26.221616701770905 lon=28.308248311897106 (projected: x=3151259.7873299317, y=-3026555.1128230593); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2450
+
+Node id=-4 lat=-26.229356925766492 lon=28.304384237013604 (projected: x=3150829.640481513, y=-3027515.6238066); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1422
+
+Node id=-1104 lat=-26.22167625194561 lon=28.305881658905243 (projected: x=3150996.3327239933, y=-3026562.5023648143); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2444
+
+Node id=-1102 lat=-26.222771612394283 lon=28.3054425754046 (projected: x=3150947.454172286, y=-3026698.425592455); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2478
+    -2480
+    -2444
+
+Node id=-62 lat=-26.22447520097175 lon=28.301268484717195 (projected: x=3150482.796522439, y=-3026909.8263639347); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1472
+
+Node id=-1138 lat=-26.223465365315647 lon=28.306996686804816 (projected: x=3151120.457061994, y=-3026784.514022556); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2502
+    -2520
+    -2472
+
+Node id=-64 lat=-26.225025977008652 lon=28.3045172792759 (projected: x=3150844.4506784063, y=-3026978.1736215865); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2592
+    -2590
+    -1474
+
+Node id=-1140 lat=-26.22283936223561 lon=28.306989338044087 (projected: x=3151119.6390016917, y=-3026706.8327091755); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2502
+    -2474
+    -2476
+
+Node id=-58 lat=-26.224498050832555 lon=28.304779765313427 (projected: x=3150873.670490444, y=-3026912.661857267); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2592
+    -2594
+    -1470
+
+Node id=-1142 lat=-26.222559560513396 lon=28.30710215350821 (projected: x=3151132.1975617115, y=-3026672.111984414); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2474
+
+Node id=-60 lat=-26.224460610329846 lon=28.302716050123692 (projected: x=3150643.9387663803, y=-3026908.015776923); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1454
+    -1452
+    -1470
+    -1472
+
+Node id=-1144 lat=-26.222684578387348 lon=28.306989338044087 (projected: x=3151119.6390016917, y=-3026687.6254997347); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2474
+
+Node id=-54 lat=-26.22393662496213 lon=28.305030929848286 (projected: x=3150901.62999857, y=-3026842.993352953); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2596
+    -2594
+    -1466
+
+Node id=-1146 lat=-26.22283508604509 lon=28.305833747891572 (projected: x=3150990.999294348, y=-3026706.3020740924); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2478
+
+Node id=-56 lat=-26.22392805064765 lon=28.302716050123692 (projected: x=3150643.9387663803, y=-3026841.929351037); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1450
+    -1452
+    -1466
+    -1468
+
+Node id=-1148 lat=-26.222829615951774 lon=28.305572665186318 (projected: x=3150961.935700544, y=-3026705.6232869164); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2478
+
+Node id=-50 lat=-26.2235931563329 lon=28.300087790357164 (projected: x=3150351.3622274986, y=-3026800.3717819504); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1462
+    -1464
+    -1460
+
+Node id=-1150 lat=-26.223472997381467 lon=28.30655491137991 (projected: x=3151071.2788466485, y=-3026785.4610953913); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2472
+
+Node id=-52 lat=-26.223913459937105 lon=28.300658555472882 (projected: x=3150414.899509542, y=-3026840.118764028); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1468
+
+Node id=-1152 lat=-26.22348346737155 lon=28.305892357769604 (projected: x=3150997.523716126, y=-3026786.7603299874); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2472
+
+Node id=-46 lat=-26.225958869228727 lon=28.309223277997265 (projected: x=3151368.3200597423, y=-3027093.9394271467); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1448
+    -1446
+    -2558
+
+Node id=-1122 lat=-26.22278935188197 lon=28.30996775310465 (projected: x=3151451.194649605, y=-3026700.6268951967); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2468
+
+Node id=-48 lat=-26.223317630161066 lon=28.30050630330293 (projected: x=3150397.950875511, y=-3026766.18139002); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2614
+    -1458
+    -1460
+
+Node id=-1124 lat=-26.22277546802242 lon=28.3090976348698 (projected: x=3151354.333530771, y=-3026698.9040394328); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2536
+    -2534
+    -2468
+    -2452
+
+Node id=-42 lat=-26.22640772416269 lon=28.30450687678309 (projected: x=3150843.2926782034, y=-3027149.63971122); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1446
+    -2586
+    -2584
+
+Node id=-1126 lat=-26.222620763771907 lon=28.309171084554606 (projected: x=3151362.5099122827, y=-3026679.706717856); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2454
+
+Node id=-44 lat=-26.224480842199313 lon=28.3096924711512 (projected: x=3151420.550402722, y=-3026910.526397168); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1448
+
+Node id=-1128 lat=-26.22209491804829 lon=28.307897403040304 (projected: x=3151220.7243346777, y=-3026614.4544711104); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2460
+    -2458
+    -2456
+
+Node id=-38 lat=-26.227861438222178 lon=28.305024662720133 (projected: x=3150900.932345055, y=-3027330.0386380176); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1416
+    -1440
+    -1438
+
+Node id=-1130 lat=-26.222520545384043 lon=28.308218580862487 (projected: x=3151256.4776862976, y=-3026667.2705856534); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2466
+    -2460
+    -2462
+
+Node id=-40 lat=-26.2278511201598 lon=28.304460390003737 (projected: x=3150838.1177935973, y=-3027328.758208129); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1416
+    -1444
+    -2580
+
+Node id=-1132 lat=-26.22277543738851 lon=28.308417216775588 (projected: x=3151278.589734997, y=-3026698.9002380543); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2470
+    -2462
+    -2452
+
+Node id=-34 lat=-26.22685835653303 lon=28.305715915863686 (projected: x=3150977.882293005, y=-3027205.5607810384); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1436
+    -1434
+    -1440
+
+Node id=-1134 lat=-26.223466298533037 lon=28.30766056170575 (projected: x=3151194.3592779166, y=-3026784.6298266957); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2482
+    -2522
+    -2520
+
+Node id=-36 lat=-26.2278523193367 lon=28.30567525391407 (projected: x=3150973.355825479, y=-3027328.9070211356); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1432
+    -1436
+    -1438
+
+Node id=-1136 lat=-26.222768501929682 lon=28.307824727159055 (projected: x=3151212.6340925847, y=-3026698.039613233); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2522
+    -2466
+    -2470
+
+Node id=-92 lat=-26.224739652118334 lon=28.29953333628106 (projected: x=3150289.6406820775, y=-3026942.6427669628); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1498
+
+Node id=-1048 lat=-26.21481696186605 lon=28.302667908571728 (projected: x=3150638.5796733294, y=-3025711.3624732625); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1812
+    -2398
+    -2410
+
+Node id=-90 lat=-26.22626990879343 lon=28.300741947999715 (projected: x=3150424.182723165, y=-3027132.5376033857); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1496
+
+Node id=-1046 lat=-26.214447501507514 lon=28.30294688179632 (projected: x=3150669.634830636, y=-3025665.51914581); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1812
+    -2400
+    -2394
+    -2392
+
+Node id=-96 lat=-26.223912164415005 lon=28.299617856352672 (projected: x=3150299.0494134114, y=-3026839.958000414); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1462
+    -1490
+    -1500
+
+Node id=-1044 lat=-26.21410880159308 lon=28.303189681518557 (projected: x=3150696.6631720806, y=-3025623.492759268); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2392
+
+Node id=-94 lat=-26.22528248347258 lon=28.299981407381953 (projected: x=3150339.5197288687, y=-3027010.00429875); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1496
+    -1482
+    -1498
+
+Node id=-1042 lat=-26.214004598577535 lon=28.30339514170802 (projected: x=3150719.5348957498, y=-3025610.56311952); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2404
+    -2392
+    -2390
+
+Node id=-84 lat=-26.225820123921583 lon=28.301845868535214 (projected: x=3150547.0705950535, y=-3027076.721985798); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1492
+
+Node id=-1056 lat=-26.21559204748159 lon=28.30124422983909 (projected: x=3150480.096481759, y=-3025807.537008916); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2412
+
+Node id=-82 lat=-26.22567219978335 lon=28.301737758495335 (projected: x=3150535.0358404643, y=-3027058.365530449); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2582
+    -1476
+    -1492
+
+Node id=-1054 lat=-26.213827758917134 lon=28.302827321842923 (projected: x=3150656.325477505, y=-3025588.6206610505); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2402
+
+Node id=-88 lat=-26.226005266362314 lon=28.301257533713816 (projected: x=3150481.5774623193, y=-3027099.697031339); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1494
+
+Node id=-1052 lat=-26.215305601183722 lon=28.30310629506751 (projected: x=3150687.3806348112, y=-3025771.9939708607); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2398
+
+Node id=-86 lat=-26.22499324506833 lon=28.300457480903717 (projected: x=3150392.5159908915, y=-3026974.111819347); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1480
+    -1494
+    -1490
+    -1482
+
+Node id=-1050 lat=-26.214876552136595 lon=28.30381037034862 (projected: x=3150765.7579365843, y=-3025718.756558335); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2400
+    -2398
+    -2396
+
+Node id=-76 lat=-26.225168985003545 lon=28.301355997444556 (projected: x=3150492.5383946868, y=-3026995.9199154885); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2582
+    -1488
+    -1486
+
+Node id=-1032 lat=-26.213566540284525 lon=28.302282659833008 (projected: x=3150595.693979907, y=-3025556.208428431); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2034
+    -2382
+
+Node id=-74 lat=-26.225011620000583 lon=28.30161030319787 (projected: x=3150520.8475816515, y=-3026976.39201831); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1486
+
+Node id=-1030 lat=-26.213459276568038 lon=28.302532458739794 (projected: x=3150623.501467011, y=-3025542.899075299); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2408
+    -2402
+    -2382
+
+Node id=-80 lat=-26.22467454872514 lon=28.30093078221216 (projected: x=3150445.203651539, y=-3026934.5639174366); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1480
+    -1472
+    -1488
+    -1484
+
+Node id=-1028 lat=-26.212656341061187 lon=28.304047088428796 (projected: x=3150792.109272731, y=-3025443.2706943215); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2038
+    -2036
+    -2408
+
+Node id=-78 lat=-26.224048447086492 lon=28.30044374609085 (projected: x=3150390.987038517, y=-3026856.8695661942); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1464
+    -1468
+    -1484
+
+Node id=-1026 lat=-26.213071287103737 lon=28.304346360276583 (projected: x=3150825.424062435, y=-3025494.7571875015); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2038
+    -2040
+    -2402
+
+Node id=-68 lat=-26.225533017633484 lon=28.302024796980135 (projected: x=3150566.9888184303, y=-3027041.0939222015); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1476
+
+Node id=-1040 lat=-26.214261804600806 lon=28.303865931028632 (projected: x=3150771.942923191, y=-3025642.4775837087); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2406
+    -2390
+    -2388
+
+Node id=-66 lat=-26.225556954984086 lon=28.304363943082574 (projected: x=3150827.381371445, y=-3027044.064391747); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2588
+    -2590
+    -1478
+
+Node id=-1038 lat=-26.214564749826415 lon=28.304452960141354 (projected: x=3150837.2907051, y=-3025680.0675192075); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -2388
+    -2386
+
+Node id=-72 lat=-26.225011620000583 lon=28.302689945387577 (projected: x=3150641.0328004486, y=-3026976.39201831); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1454
+    -1456
+    -1474
+    -1486
+
+Node id=-1036 lat=-26.215114370388626 lon=28.302116150797684 (projected: x=3150577.158278882, y=-3025748.265580836); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1822
+    -2384
+    -2410
+    -2412
+
+Node id=-70 lat=-26.225547608140857 lon=28.302716050123692 (projected: x=3150643.9387663803, y=-3027042.904509211); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1456
+    -1478
+    -1476
+
+Node id=-1034 lat=-26.213899267846017 lon=28.302056824365483 (projected: x=3150570.5540906587, y=-3025597.49356314); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1822
+    -2394
+    -2382
+
+Node id=-122 lat=-26.226505428262826 lon=28.304491654374107 (projected: x=3150841.5981273875, y=-3027161.764249701); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2584
+    -1520
+    -1532
+
+Node id=-1078 lat=-26.221349656245657 lon=28.30419056004854 (projected: x=3150808.080460384, y=-3026521.97536714); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2430
+
+Node id=-124 lat=-26.229439597739393 lon=28.30372957154042 (projected: x=3150756.7634543986, y=-3027525.8832007307); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2572
+    -2570
+    -1522
+
+Node id=-1080 lat=-26.22107453005345 lon=28.30408362586575 (projected: x=3150796.176601608, y=-3026487.8352675736); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2430
+
+Node id=-126 lat=-26.22941391603977 lon=28.303120001618304 (projected: x=3150688.906441066, y=-3027522.6961624427); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2572
+    -2574
+    -1524
+
+Node id=-1074 lat=-26.221915766861944 lon=28.309277067024503 (projected: x=3151374.307826865, y=-3026592.2236504206); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2512
+    -2514
+    -2438
+
+Node id=-128 lat=-26.229402517584965 lon=28.302539376587735 (projected: x=3150624.271558321, y=-3027521.28164134); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2576
+    -2574
+    -1526
+
+Node id=-1076 lat=-26.22122790372989 lon=28.310415202132198 (projected: x=3151501.004447507, y=-3026506.867224518); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2514
+
+Node id=-114 lat=-26.226296977513375 lon=28.30129021388537 (projected: x=3150485.215402376, y=-3027135.89667683); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1514
+    -1494
+    -1512
+
+Node id=-1086 lat=-26.221057810464384 lon=28.30611023264626 (projected: x=3151021.777436452, y=-3026485.760555184); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2430
+
+Node id=-116 lat=-26.226419569012354 lon=28.30012161385044 (projected: x=3150355.1274415464, y=-3027151.109591012); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1516
+    -1510
+    -1508
+
+Node id=-1088 lat=-26.22105761869478 lon=28.306509346568614 (projected: x=3151066.2065950567, y=-3026485.736758741); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2434
+    -2430
+    -2432
+    -2442
+
+Node id=-118 lat=-26.226237593206374 lon=28.301878011481094 (projected: x=3150550.6487314207, y=-3027128.5274247453); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1514
+    -1518
+    -1492
+
+Node id=-1082 lat=-26.220978087185177 lon=28.304223263683326 (projected: x=3150811.7210123553, y=-3026475.867799696); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2430
+
+Node id=-120 lat=-26.22597484466801 lon=28.304406816087756 (projected: x=3150832.1539725508, y=-3027095.921882462); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2588
+    -2586
+    -1518
+
+Node id=-1084 lat=-26.220965588965598 lon=28.305245028687406 (projected: x=3150925.4633723204, y=-3026474.3169128974); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2430
+
+Node id=-106 lat=-26.225966413011324 lon=28.29915546153028 (projected: x=3150247.5758572374, y=-3027094.8755648714); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1502
+
+Node id=-1062 lat=-26.214614769200065 lon=28.300553438997245 (projected: x=3150403.1979970005, y=-3025686.2740137214); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -2208
+
+Node id=-108 lat=-26.225832615553763 lon=28.298711955953095 (projected: x=3150198.205042221, y=-3027078.272119869); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2610
+    -1506
+    -1502
+
+Node id=-1064 lat=-26.214471752177733 lon=28.300646430072106 (projected: x=3150413.5497161024, y=-3025668.528209546); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0
+  way referrer:
+    -1968
+    -1810
+    -2208
+
+Node id=-110 lat=-26.22588662143903 lon=28.29967687377646 (projected: x=3150305.6192029756, y=-3027084.973917157); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1508
+    -1504
+    -1502
+
+Node id=-1058 lat=-26.21558595286184 lon=28.301037565122968 (projected: x=3150457.0906707956, y=-3025806.780770961); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1824
+    -2412
+    -2416
+
+Node id=-112 lat=-26.22635764487028 lon=28.30074710100727 (projected: x=3150424.7563533424, y=-3027143.425151938); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1516
+    -1496
+    -1512
+
+Node id=-1060 lat=-26.21480213969608 lon=28.301064134001496 (projected: x=3150460.048304824, y=-3025709.5233080806); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  way referrer:
+    -1820
+    -2418
+    -2416
+
+Node id=-98 lat=-26.224192283448524 lon=28.29917026491966 (projected: x=3150249.2237630053, y=-3026874.71850473); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1500
+
+Node id=-1070 lat=-26.221480909765297 lon=28.308907343347112 (projected: x=3151333.1503753634, y=-3026538.26249713); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2512
+    -2510
+    -2426
+    -2428
+
+Node id=-100 lat=-26.22459556175202 lon=28.29905775493154 (projected: x=3150236.6992084184, y=-3026924.762224409); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2708
+    -1500
+    -1498
+
+Node id=-1072 lat=-26.220833512302654 lon=28.310037434246787 (projected: x=3151458.9515188653, y=-3026457.9277124614); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2510
+
+Node id=-102 lat=-26.225196715141777 lon=28.299148182228063 (projected: x=3150246.765529021, y=-3026999.361034598); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1504
+
+Node id=-1066 lat=-26.22049025648922 lon=28.309518185912495 (projected: x=3151401.149058697, y=-3026415.333686321); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2508
+    -2422
+    -2424
+
+Node id=-104 lat=-26.22512887562798 lon=28.298914893237733 (projected: x=3150220.79591741, y=-3026990.9426197624); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2708
+    -1506
+    -1504
+
+Node id=-1068 lat=-26.221036350219077 lon=28.308584870384035 (projected: x=3151297.252849319, y=-3026483.0975812725); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2434
+    -2426
+    -2424
+
+Node id=-152 lat=-26.22865973425502 lon=28.298662193598044 (projected: x=3150192.6655221963, y=-3027429.1042974456); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1554
+    -1548
+    -1546
+
+Node id=-1244 lat=-26.222685966949882 lon=28.29914642873067 (projected: x=3150246.570330584, y=-3026687.797807078); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2612
+    -2616
+    -2614
+
+Node id=-150 lat=-26.229363667843014 lon=28.30144840251759 (projected: x=3150502.824880364, y=-3027516.4604819017); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1552
+    -1550
+
+Node id=-1242 lat=-26.226593972440416 lon=28.29847571548792 (projected: x=3150171.906873933, y=-3027172.7521012514); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2610
+
+Node id=-148 lat=-26.229364832315316 lon=28.30193541250796 (projected: x=3150557.038584503, y=-3027516.604990085); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2576
+    -1544
+    -1550
+
+Node id=-1248 lat=-26.218337301141634 lon=28.298122247534657 (projected: x=3150132.5590013643, y=-3026148.1800097898); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2640
+
+Node id=-146 lat=-26.228804445427137 lon=28.30194318957625 (projected: x=3150557.904323785, y=-3027447.0625049598); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1542
+    -1544
+    -1548
+
+Node id=-1246 lat=-26.219551393992845 lon=28.298916441051546 (projected: x=3150220.9682192556, y=-3026298.832488706); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2640
+
+Node id=-160 lat=-26.230059496042966 lon=28.29722287687464 (projected: x=3150032.441517456, y=-3027602.811330123); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2602
+    -1560
+    -10069
+
+Node id=-1236 lat=-26.221235101144615 lon=28.294425173005372 (projected: x=3149721.0025473395, y=-3026507.7603437607); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -1656
+    -2548
+    -2550
+
+Node id=-158 lat=-26.229140915394623 lon=28.297927065287173 (projected: x=3150110.8314129626, y=-3027488.817470458); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1558
+
+Node id=-1234 lat=-26.22588151076362 lon=28.296628793080114 (projected: x=3149966.308411962, y=-3027084.339713725); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2544
+
+Node id=-1240 lat=-26.229746599835565 lon=28.29773776834084 (projected: x=3150089.758973288, y=-3027563.981490512); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2602
+    -2600
+
+Node id=-156 lat=-26.22964057757119 lon=28.297892131401472 (projected: x=3150106.9425905948, y=-3027550.824347639); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2600
+    -1556
+    -1558
+
+Node id=-154 lat=-26.229232331892252 lon=28.298580043859644 (projected: x=3150183.520655149, y=-3027500.1620185496); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1556
+    -1554
+    -1552
+
+Node id=-1238 lat=-26.225378953494204 lon=28.304353780490757 (projected: x=3150826.250076899, y=-3027021.9755790327); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2590
+
+Node id=-136 lat=-26.227367365173432 lon=28.302625304286682 (projected: x=3150633.8369860128, y=-3027268.726294716); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1526
+    -1528
+    -1534
+
+Node id=-1228 lat=-26.22347523582472 lon=28.313044058954734 (projected: x=3151793.6474503605, y=-3026785.738866697); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2114
+
+Node id=-134 lat=-26.22731060204372 lon=28.303218956695954 (projected: x=3150699.922069921, y=-3027261.682250798); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1524
+    -1530
+    -1534
+
+Node id=-1226 lat=-26.22344795431089 lon=28.31540689117545 (projected: x=3152056.6767300004, y=-3026782.353468882); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2114
+
+Node id=-132 lat=-26.227243380950718 lon=28.303821232842388 (projected: x=3150766.967143859, y=-3027253.3404260743); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1418
+    -1522
+    -1530
+
+Node id=-1232 lat=-26.225112404221225 lon=28.296880254204556 (projected: x=3149994.3009362887, y=-3026988.8986327555); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -1582
+    -2544
+    -2546
+
+Node id=-130 lat=-26.22717207071512 lon=28.304453420827137 (projected: x=3150837.341988407, y=-3027244.4911630577); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1418
+    -1444
+    -1532
+
+Node id=-1230 lat=-26.223442182434493 lon=28.311512600208417 (projected: x=3151623.166242549, y=-3026781.6372294873); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2114
+
+Node id=-144 lat=-26.227755023253835 lon=28.29876923686326 (projected: x=3150204.581523973, y=-3027316.8329754905); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1538
+    -1540
+    -1546
+
+Node id=-1220 lat=-26.22352459924283 lon=28.316688468537343 (projected: x=3152199.3412693385, y=-3026791.86443817); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2114
+
+Node id=-142 lat=-26.22742497888765 lon=28.30200658399032 (projected: x=3150564.9613576783, y=-3027275.875895783); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1528
+    -1540
+    -1542
+
+Node id=-1218 lat=-26.223575695836075 lon=28.317087181494376 (projected: x=3152243.7257926883, y=-3026798.205084363); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2114
+
+Node id=-140 lat=-26.227110367251342 lon=28.29859750951238 (projected: x=3150185.464922718, y=-3027236.834059374); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1520
+    -1538
+    -1536
+
+Node id=-1224 lat=-26.223499050937793 lon=28.31589104262328 (projected: x=3152110.57222264, y=-3026788.694115075); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2114
+
+Node id=-138 lat=-26.226588346084863 lon=28.298526958925795 (projected: x=3150177.611267344, y=-3027172.0539008346); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2610
+    -2608
+    -1536
+    -1510
+
+Node id=-1222 lat=-26.223499050937793 lon=28.31628975558031 (projected: x=3152154.956745989, y=-3026788.694115075); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2114
+
+Node id=-1274 lat=-26.230281780508147 lon=28.343674960936454 (projected: x=3155203.4638615036, y=-3027630.3964838823); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-182 lat=-26.220845184133893 lon=28.29888370936476 (projected: x=3150217.3245445495, y=-3026459.376052224); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2626
+    -2624
+    -1572
+
+Node id=-1276 lat=-26.23041718818569 lon=28.344278769175066 (projected: x=3155270.679487163, y=-3027647.200390297); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-184 lat=-26.220124529961865 lon=28.298327539859287 (projected: x=3150155.412038406, y=-3026369.9514460526); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2636
+    -2638
+    -1572
+
+Node id=-1278 lat=-26.230281780508147 lon=28.345071267488244 (projected: x=3155358.8999958406, y=-3027630.3964838823); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-178 lat=-26.220544037476774 lon=28.29939631247574 (projected: x=3150274.3872618433, y=-3026422.0072686747); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2628
+    -2626
+    -1570
+
+Node id=-1280 lat=-26.23011252068948 lon=28.345561861682114 (projected: x=3155413.5126916883, y=-3027609.3916008645); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-180 lat=-26.219814514287467 lon=28.298830837284335 (projected: x=3150211.4388514794, y=-3026331.4823607956); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2638
+    -2640
+    -1570
+
+Node id=-190 lat=-26.226947878731217 lon=28.2983670900236 (projected: x=3150159.8147425577, y=-3027216.670033391); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2608
+    -2606
+    -1558
+
+Node id=-1266 lat=-26.22439139393313 lon=28.33329700683533 (projected: x=3154048.195295491, y=-3026899.4265548415); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-192 lat=-26.226993917910903 lon=28.29761076297707 (projected: x=3150075.620800865, y=-3027222.3832662404); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1580
+    -2604
+    -1560
+
+Node id=-1268 lat=-26.224696076417153 lon=28.334127243163422 (projected: x=3154140.6167807723, y=-3026937.2353442754); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-1270 lat=-26.22760744656876 lon=28.33899544708722 (projected: x=3154682.5427626474, y=-3027298.5193321905); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-186 lat=-26.22115411157452 lon=28.298374628912594 (projected: x=3150160.653967842, y=-3026497.7104406636); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2624
+    -2622
+    -1574
+
+Node id=-1272 lat=-26.229977112657163 lon=28.343108890712756 (projected: x=3155140.4492124487, y=-3027592.5876944494); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-188 lat=-26.220441479322368 lon=28.297852409121578 (projected: x=3150102.520726624, y=-3026409.2810214045); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -2634
+    -2636
+    -1574
+
+Node id=-1258 lat=-26.22208932270327 lon=28.32367381303247 (projected: x=3152976.946261552, y=-3026613.760145791); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-166 lat=-26.22147900738186 lon=28.30007194570782 (projected: x=3150349.598409201, y=-3026538.026431966); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2632
+    -2630
+    -1566
+
+Node id=-1260 lat=-26.222055468374677 lon=28.324541787375473 (projected: x=3153073.568723437, y=-3026609.5591691877); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-168 lat=-26.22201401046184 lon=28.29914203493154 (projected: x=3150246.0812151027, y=-3026604.414667061); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1566
+
+Node id=-162 lat=-26.227869007051712 lon=28.297702630652296 (projected: x=3150085.8474636916, y=-3027330.977899281); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1560
+
+Node id=-1262 lat=-26.222326302727552 lon=28.326466426136047 (projected: x=3153287.8185302247, y=-3026643.166982017); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-1264 lat=-26.222766407206088 lon=28.328013684747486 (projected: x=3153460.0585709754, y=-3026697.779677865); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-164 lat=-26.2217938372807 lon=28.298151421687813 (projected: x=3150135.806653238, y=-3026577.09346231); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1568
+
+Node id=-174 lat=-26.221699970513427 lon=28.298581034161053 (projected: x=3150183.6308949976, y=-3026565.4455872457); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1564
+
+Node id=-1250 lat=-26.216370940843944 lon=28.2964638195181 (projected: x=3149947.9436390433, y=-3025904.184664549); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2648
+
+Node id=-176 lat=-26.221937937728562 lon=28.2984668480271 (projected: x=3150170.91975271, y=-3026594.974825212); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1564
+    -1562
+    -1568
+
+Node id=-1252 lat=-26.214961549324308 lon=28.292970391196157 (projected: x=3149559.0569771226, y=-3025729.3031932395); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  way referrer:
+    -2698
+    -2700
+    -2696
+
+Node id=-1254 lat=-26.22246171966752 lon=28.321900126331556 (projected: x=3152779.500361179, y=-3026659.9708884316); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-170 lat=-26.22221719957185 lon=28.299008487886447 (projected: x=3150231.214826046, y=-3026629.6283708853); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1562
+    -1566
+
+Node id=-1256 lat=-26.222224739919117 lon=28.32307000479386 (projected: x=3152909.730635893, y=-3026630.5640522065); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0
+  way referrer:
+    -2710
+
+Node id=-172 lat=-26.221028022000862 lon=28.29971250602078 (projected: x=3150309.585766269, y=-3026482.0641436437); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2628
+    -2630
+    -1564
+
+Node id=-212 lat=-26.22519680263376 lon=28.297238291855283 (projected: x=3150034.157505253, y=-3026999.3718917514); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1600
+    -1602
+    -1586
+    -1592
+    -2546
+
+Node id=-1184 lat=-26.2219277166282 lon=28.30335156864928 (projected: x=3150714.6843650388, y=-3026593.7064925125); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -1774
+    -2496
+    -2492
+    -2516
+
+Node id=-210 lat=-26.223844542555316 lon=28.29757757516292 (projected: x=3150071.926350293, y=-3026831.566687612); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1600
+    -1598
+    -1604
+    -2706
+
+Node id=-1182 lat=-26.221171239154927 lon=28.303473850572168 (projected: x=3150728.2967264275, y=-3026499.8357819375); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2490
+
+Node id=-216 lat=-26.225007708945935 lon=28.296436112913167 (projected: x=3149944.8593538906, y=-3026975.906684097); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1608
+    -1584
+    -1582
+
+Node id=-1180 lat=-26.221662882666354 lon=28.30377289285991 (projected: x=3150761.585961625, y=-3026560.843379473); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2490
+    -2518
+    -2516
+
+Node id=-214 lat=-26.224854507816012 lon=28.295736727379687 (projected: x=3149867.004112436, y=-3026956.8955204864); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1606
+    -1584
+    -1588
+
+Node id=-1178 lat=-26.222759856198202 lon=28.30351632227631 (projected: x=3150733.024654906, y=-3026696.966759829); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2494
+    -2492
+    -2488
+
+Node id=-220 lat=-26.22384045715361 lon=28.296013228637108 (projected: x=3149897.7840916156, y=-3026831.059723249); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1610
+    -1614
+    -1608
+
+Node id=-1176 lat=-26.2227333762502 lon=28.304721456881296 (projected: x=3150867.17962547, y=-3026693.6808495363); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2486
+    -2488
+    -2526
+
+Node id=-218 lat=-26.223825866432087 lon=28.296688217000806 (projected: x=3149972.9234525543, y=-3026829.249136239); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1610
+    -1604
+    -1602
+    -2704
+
+Node id=-1174 lat=-26.221423677475453 lon=28.30415816606934 (projected: x=3150804.4743791143, y=-3026531.160592027); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2506
+    -2518
+    -2430
+
+Node id=-224 lat=-26.223307894632043 lon=28.298965286179573 (projected: x=3150226.4056340354, y=-3026764.9732973627); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1616
+    -2612
+    -1576
+
+Node id=-1172 lat=-26.221664572321394 lon=28.30441204148409 (projected: x=3150832.7356610093, y=-3026561.053047679); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2504
+    -2484
+    -2506
+
+Node id=-222 lat=-26.223825866432087 lon=28.295289445933857 (projected: x=3149817.212969645, y=-3026829.249136239); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1612
+    -1614
+    -1606
+
+Node id=-1170 lat=-26.22141384049653 lon=28.304874177787124 (projected: x=3150884.1804389404, y=-3026529.9399302145); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2484
+
+Node id=-196 lat=-26.227018677978684 lon=28.29731197708095 (projected: x=3150042.3601070526, y=-3027225.455868242); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1580
+
+Node id=-1168 lat=-26.221432512776435 lon=28.305277495502065 (projected: x=3150929.077561596, y=-3026532.256956619); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2484
+
+Node id=-194 lat=-26.226973216508043 lon=28.297906530084358 (projected: x=3150108.5454446417, y=-3027219.8143249922); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1578
+    -2604
+    -2606
+
+Node id=-1166 lat=-26.221509502267246 lon=28.305291469157645 (projected: x=3150930.6331018195, y=-3026541.810517154); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2484
+
+Node id=-200 lat=-26.226134679436807 lon=28.296285968664186 (projected: x=3149928.145372549, y=-3027115.756424794); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1588
+
+Node id=-1164 lat=-26.222023456197228 lon=28.305090545934934 (projected: x=3150908.266430978, y=-3026605.586785861); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2484
+
+Node id=-198 lat=-26.226444725720967 lon=28.296824739496664 (projected: x=3149988.1210672744, y=-3027154.231398767); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1586
+
+Node id=-1162 lat=-26.222040306212303 lon=28.304699759108335 (projected: x=3150864.7642404325, y=-3026607.6777000036); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2504
+    -2486
+    -2484
+
+Node id=-204 lat=-26.22384308348329 lon=28.298812397249005 (projected: x=3150209.3861161363, y=-3026831.3856289117); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1594
+    -2542
+    -1576
+
+Node id=-1160 lat=-26.223467973808006 lon=28.31009786182717 (projected: x=3151465.6782863433, y=-3026784.8377137114); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -1448
+    -2464
+    -2114
+
+Node id=-202 lat=-26.22545943224577 lon=28.298342995702583 (projected: x=3150157.1325750113, y=-3027031.9624579437); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1578
+    -1590
+    -2542
+
+Node id=-1158 lat=-26.223445606961153 lon=28.309083221514253 (projected: x=3151352.729043371, y=-3026782.062183299); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2482
+    -2534
+    -2464
+
+Node id=-208 lat=-26.223855047873315 lon=28.298192709136785 (projected: x=3150140.402751033, y=-3026832.870310261); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1596
+    -1594
+    -1598
+
+Node id=-1156 lat=-26.222759973694227 lon=28.30539030554471 (projected: x=3150941.6355180987, y=-3026696.981339973); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2480
+
+Node id=-206 lat=-26.225327533892557 lon=28.29778088491102 (projected: x=3150094.5586879253, y=-3027015.594751371); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1596
+    -1580
+    -1592
+    -1590
+
+Node id=-1154 lat=-26.223440131169287 lon=28.305492703144903 (projected: x=3150953.0343668116, y=-3026781.3826854187); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2472
+
+Node id=-1214 lat=-26.223601244124282 lon=28.317799168917645 (projected: x=3152322.983870098, y=-3026801.375407459); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2114
+
+Node id=-242 lat=-26.222447034989 lon=28.296314127064306 (projected: x=3149931.2799513116, y=-3026658.1486637406); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1630
+    -1632
+    -1634
+    -1640
+
+Node id=-1216 lat=-26.223601244124282 lon=28.31745741495448 (projected: x=3152284.9399929415, y=-3026801.375407459); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2114
+
+Node id=-244 lat=-26.222151791898952 lon=28.296777838949748 (projected: x=3149982.9001222737, y=-3026621.5119385174); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1642
+    -1628
+    -1630
+
+Node id=-1210 lat=-26.223368437772365 lon=28.30519806036879 (projected: x=3150920.2348830085, y=-3026772.4861648222); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2532
+    -2598
+
+Node id=-246 lat=-26.221798394025043 lon=28.297348300239943 (projected: x=3150046.4035826153, y=-3026577.6589064263); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1644
+    -1626
+    -1628
+    -2616
+
+Node id=-1212 lat=-26.223550147542255 lon=28.318425717850122 (projected: x=3152392.7309782184, y=-3026795.034761266); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2114
+
+Node id=-248 lat=-26.220696114364312 lon=28.2973550729746 (projected: x=3150047.157519989, y=-3026440.878222472); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1646
+    -1624
+    -2634
+
+Node id=-1206 lat=-26.222817858884845 lon=28.305136998969633 (projected: x=3150913.437559147, y=-3026704.164345498); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2528
+    -2526
+    -2530
+
+Node id=-250 lat=-26.21984968070322 lon=28.296691388632887 (projected: x=3149973.276517022, y=-3026335.8460699855); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1648
+    -1646
+    -1654
+
+Node id=-1208 lat=-26.222898351382963 lon=28.305094310591116 (projected: x=3150908.685510588, y=-3026714.1527103367); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2530
+
+Node id=-252 lat=-26.22134350529459 lon=28.294211793929474 (projected: x=3149697.2492972645, y=-3026521.2121016616); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1658
+    -1656
+    -1636
+
+Node id=-1202 lat=-26.222937466392604 lon=28.307692077532497 (projected: x=3151197.867603702, y=-3026719.0065190396); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2522
+
+Node id=-254 lat=-26.221135207292242 lon=28.29461718212158 (projected: x=3149742.3769043833, y=-3026495.3646309106); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1660
+    -1638
+    -2550
+
+Node id=-1204 lat=-26.222722350037074 lon=28.304938158003146 (projected: x=3150891.3026840086, y=-3026692.31260133); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2526
+
+Node id=-256 lat=-26.220835962822097 lon=28.295098359167817 (projected: x=3149795.9412881522, y=-3026458.231793675); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1662
+    -1660
+    -1652
+    -1640
+
+Node id=-1198 lat=-26.223400410732538 lon=28.30530490246239 (projected: x=3150932.128490463, y=-3026776.453727559); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2532
+    -2596
+    -2598
+    -2472
+
+Node id=-226 lat=-26.223300599238115 lon=28.29759091228239 (projected: x=3150073.4110316415, y=-3026764.068003861); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1616
+    -1618
+    -2706
+
+Node id=-228 lat=-26.223286008448873 lon=28.295069871405907 (projected: x=3149792.7700450025, y=-3026762.257416849); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1612
+    -1620
+    -1622
+
+Node id=-1200 lat=-26.222777198643577 lon=28.30516586900134 (projected: x=3150916.651356376, y=-3026699.1187931523); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2480
+    -2528
+
+Node id=-1194 lat=-26.222322269521715 lon=28.302746522638767 (projected: x=3150647.3309512413, y=-3026642.666501259); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2496
+
+Node id=-230 lat=-26.221450085272096 lon=28.297888258561958 (projected: x=3150106.511468072, y=-3026534.4375121263); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1626
+    -1624
+    -2622
+    -1568
+
+Node id=-1196 lat=-26.223356291551298 lon=28.305108416319957 (projected: x=3150910.2557531395, y=-3026770.9789260593); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2498
+    -2532
+    -2530
+    -2598
+
+Node id=-232 lat=-26.223293303843718 lon=28.296680084610887 (projected: x=3149972.018159049, y=-3026763.1627103547); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0
+  way referrer:
+    -1634
+    -1618
+    -1622
+    -2704
+
+Node id=-1190 lat=-26.223339818408093 lon=28.303510512646007 (projected: x=3150732.377929819, y=-3026768.9347547204); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2494
+    -2498
+    -2500
+
+Node id=-234 lat=-26.222862874764573 lon=28.296623157881424 (projected: x=3149965.6811045124, y=-3026709.7503935434); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1634
+
+Node id=-1192 lat=-26.223338603484077 lon=28.302726348579302 (projected: x=3150645.085185215, y=-3026768.7839934123); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -1776
+    -2496
+    -2500
+    -1450
+
+Node id=-236 lat=-26.222703678784395 lon=28.29531874191654 (projected: x=3149820.474183519, y=-3026689.995676703); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -2620
+    -2618
+    -2548
+
+Node id=-238 lat=-26.222741234803838 lon=28.294840671039903 (projected: x=3149767.2555769687, y=-3026694.656021399); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1636
+    -1620
+    -2618
+
+Node id=-1186 lat=-26.222438095846165 lon=28.303718062870978 (projected: x=3150755.4823151766, y=-3026657.039403831); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0
+  way referrer:
+    -2492
+
+Node id=-240 lat=-26.222758356544535 lon=28.29583166048206 (projected: x=3149877.5720170513, y=-3026696.780667018); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  way referrer:
+    -1632
+    -1638
+    -2620
+
+Node id=-1188 lat=-26.22264593522803 lon=28.30342161037608 (projected: x=3150722.4813744, y=-3026682.8302536802); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  way referrer:
+    -2492

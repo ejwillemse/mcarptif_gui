@@ -1,0 +1,1555 @@
+Way id=-2184 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="23"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -754
+    -756
+
+Way id=-2182 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="9"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -752
+    -754
+
+Way id=-2180 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="1"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -750
+    -752
+
+Way id=-2178 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="11"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -734
+    -736
+    -738
+    -740
+
+Way id=-2192 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="16"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -748
+    -758
+
+Way id=-2190 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="10"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -742
+    -734
+
+Way id=-2188 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="17"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -762
+    -742
+
+Way id=-2186 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="27"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -758
+    -760
+
+Way id=-2200 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="17"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -770
+    -772
+
+Way id=-2198 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="9"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -732
+    -770
+
+Way id=-2196 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="31"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -766
+    -768
+
+Way id=-2194 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="16"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -740
+    -766
+
+Way id=-2208 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="5"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1064
+    -1062
+    -792
+
+Way id=-2206 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="14"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -786
+    -788
+
+Way id=-2204 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="13"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -780
+    -782
+
+Way id=-2202 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="10"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -774
+    -776
+
+Way id=-2214 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="10"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -810
+    -812
+
+Way id=-2216 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="13"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -816
+    -818
+
+Way id=-2210 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="17"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -798
+    -800
+
+Way id=-2212 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="19"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -804
+    -806
+
+Way id=-2222 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="4"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -828
+    -830
+
+Way id=-2224 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="8"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -832
+    -834
+
+Way id=-2218 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="9"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -820
+    -822
+
+Way id=-2220 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="8"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -824
+    -826
+
+Way id=-2230 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="20"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -788
+    -790
+
+Way id=-2232 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="19"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -794
+    -796
+
+Way id=-2226 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="21"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -776
+    -778
+
+Way id=-2228 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="19"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -782
+    -784
+
+Way id=-2238 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="11"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -812
+    -814
+
+Way id=-2240 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="8"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -952
+    -950
+
+Way id=-2234 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="17"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -800
+    -802
+
+Way id=-2236 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="13"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -806
+    -808
+
+Way id=-2244 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="3"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -846
+    -848
+
+Way id=-2242 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="4"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -838
+    -840
+
+Way id=-2248 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="11"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -860
+    -864
+
+Way id=-2246 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="3"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -856
+    -858
+    -860
+
+Way id=-2252 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="4"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -870
+    -876
+
+Way id=-2250 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="5"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -866
+    -874
+
+Way id=-2256 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -866
+    -868
+    -870
+
+Way id=-2254 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="4"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -860
+    -862
+    -866
+
+Way id=-2260 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="4"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -888
+    -886
+    -884
+
+Way id=-2258 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="7"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -870
+    -872
+
+Way id=-2264 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="8"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -882
+    -880
+
+Way id=-2262 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -900
+    -898
+
+Way id=-2268 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="12"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -842
+    -844
+    -846
+
+Way id=-2266 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="15"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -878
+    -842
+
+Way id=-2272 5 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="13"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -848
+    -850
+    -852
+    -854
+    -904
+
+Way id=-2270 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="14"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -902
+    -888
+
+Way id=-2274 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="18"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -880
+    -888
+
+Way id=-2276 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="10"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -880
+    -878
+
+Way id=-2278 5 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="4"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -896
+    -894
+    -892
+    -890
+    -878
+
+Way id=-2280 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="3"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -898
+    -896
+
+Way id=-2282 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="13"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -906
+    -908
+
+Way id=-2284 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="16"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -910
+    -912
+    -908
+
+Way id=-2286 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="10"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -914
+    -916
+
+Way id=-2288 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="16"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -920
+    -918
+
+Way id=-2290 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="4"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -926
+    -922
+
+Way id=-2292 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="11"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -926
+    -928
+
+Way id=-2294 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="18"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -930
+    -932
+    -934
+    -936
+
+Way id=-2296 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="13"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -916
+    -918
+
+Way id=-2298 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="10"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -836
+    -816
+
+Way id=-2300 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="13"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -954
+    -944
+
+Way id=-2302 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="9"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -946
+    -948
+
+Way id=-2304 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -948
+    -940
+
+Way id=-2334 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="13"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -976
+    -968
+
+Way id=-2336 5 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="13"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -898
+    -978
+    -980
+    -982
+    -974
+
+Way id=-2330 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -972
+    -974
+
+Way id=-2332 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="10"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -970
+    -950
+
+Way id=-2326 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="3"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -970
+    -972
+
+Way id=-2328 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="16"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -896
+    -972
+
+Way id=-2052 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="7"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -984
+    -986
+
+Way id=-2322 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -962
+    -960
+
+Way id=-2324 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="1"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -968
+    -970
+
+Way id=-2318 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -964
+    -962
+
+Way id=-2048 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1008
+    -1010
+
+Way id=-2320 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="6"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -956
+    -958
+    -960
+
+Way id=-2314 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="13"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -954
+    -956
+
+Way id=-2316 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="10"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -948
+    -962
+
+Way id=-2310 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="4"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -950
+    -942
+
+Way id=-2312 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="3"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -942
+    -964
+
+Way id=-2306 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="5"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -940
+    -938
+
+Way id=-2308 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="16"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -938
+    -836
+
+Way id=-2368 6 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="8"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -662
+    -660
+    -1012
+    -1014
+    -1016
+    -1018
+
+Way id=-2364 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -998
+    -1006
+
+Way id=-2362 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="1"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -996
+    -998
+
+Way id=-2360 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="17"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -994
+    -1000
+    -1002
+
+Way id=-2358 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="22"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -992
+    -998
+
+Way id=-2356 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="3"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -990
+    -994
+
+Way id=-2354 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="4"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -986
+    -990
+
+Way id=-2350 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="4"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -908
+    -916
+
+Way id=-2348 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="15"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -964
+    -940
+
+Way id=-2344 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="14"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -944
+    -946
+
+Way id=-2342 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="7"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -954
+    -976
+
+Way id=-2340 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="12"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -922
+    -924
+
+Way id=-2338 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -974
+    -952
+
+Way id=-2124 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="9"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -628
+    -650
+
+Way id=-2394 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="5"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1046
+    -1034
+
+Way id=-2122 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="20"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -632
+    -634
+
+Way id=-2396 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="7"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -942
+    -1050
+
+Way id=-2128 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="4"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -654
+    -636
+
+Way id=-2398 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="11"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1050
+    -1052
+    -1048
+
+Way id=-2126 6 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="22"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -650
+    -670
+    -668
+    -666
+    -664
+    -662
+
+Way id=-2400 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="6"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1050
+    -1046
+
+Way id=-2116 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="6"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -630
+    -632
+
+Way id=-2386 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="8"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1020
+    -1038
+
+Way id=-2388 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="6"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1038
+    -1040
+
+Way id=-2120 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="20"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -642
+    -644
+    -646
+
+Way id=-2390 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="5"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1040
+    -1042
+
+Way id=-2118 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="20"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -638
+    -648
+    -640
+
+Way id=-2392 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="6"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1042
+    -1044
+    -1046
+
+Way id=-2378 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="3"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -952
+    -1020
+
+Way id=-2140 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -682
+    -688
+
+Way id=-2380 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="3"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1020
+    -1022
+
+Way id=-2138 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -682
+    -684
+    -686
+
+Way id=-2382 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="6"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1030
+    -1032
+    -1034
+
+Way id=-2144 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="4"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -692
+    -694
+
+Way id=-2384 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1036
+    -938
+
+Way id=-2142 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="0"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -686
+    -692
+
+Way id=-2370 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -986
+    -988
+
+Way id=-2132 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="11"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -652
+    -654
+
+Way id=-2372 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="2"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -990
+    -992
+
+Way id=-2130 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="16"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -656
+    -658
+    -654
+
+Way id=-2374 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="19"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -994
+    -996
+
+Way id=-2136 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="6"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -678
+    -680
+    -676
+
+Way id=-2376 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="1"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -996
+    -1004
+
+Way id=-2134 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="15"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -672
+    -674
+    -676
+
+Way id=-2154 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="7"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -714
+    -728
+
+Way id=-2156 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="20"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -698
+    -716
+
+Way id=-2158 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="13"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -716
+    -726
+
+Way id=-2160 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="20"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -702
+    -718
+
+Way id=-2146 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="8"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -692
+    -696
+    -698
+
+Way id=-2148 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="18"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -700
+    -702
+
+Way id=-2418 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="8"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1060
+    -798
+
+Way id=-2150 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="9"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -704
+    -706
+
+Way id=-2152 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="10"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -710
+    -712
+    -714
+
+Way id=-2412 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="6"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1036
+    -1056
+    -1058
+
+Way id=-2170 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="4"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -688
+    -690
+    -686
+
+Way id=-2410 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="3"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1048
+    -1036
+
+Way id=-2172 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="6"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -730
+    -732
+
+Way id=-2416 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="6"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1058
+    -1060
+
+Way id=-2174 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="25"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -764
+    -762
+
+Way id=-2414 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="16"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -792
+    -794
+
+Way id=-2176 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="15"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -734
+    -744
+    -746
+    -748
+
+Way id=-2404 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="13"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1024
+    -1042
+
+Way id=-2162 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="0"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -718
+    -724
+
+Way id=-2402 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="23"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1026
+    -1054
+    -1030
+
+Way id=-2164 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="10"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -706
+    -720
+
+Way id=-2408 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="10"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1028
+    -1030
+
+Way id=-2166 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="7"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -720
+    -722
+
+Way id=-2406 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="11"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -1022
+    -1040
+
+Way id=-2168 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T12:35:32Z, Version: 0; modified
+  tags:
+    "area"="Actonville"
+    "surface"="3"
+    "highway"="living_street"
+    "note"="R1"
+  nodes:
+    -694
+    -708

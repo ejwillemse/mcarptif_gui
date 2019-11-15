@@ -1,0 +1,5 @@
+Node id=-10096 lat=-26.22979242560696 lon=28.286526342176273 (projected: x=3148841.708721582, y=-3027569.6683773054); Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 1970-01-01T00:00:00Z, Version: 0; modified
+  tags:
+    "description"="Depot"
+  way referrer:
+    -10098

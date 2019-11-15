@@ -1,0 +1,2339 @@
+Way id=-2454 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -1094
+    -1126
+    -1092
+
+Way id=-2456 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -1090
+    -1128
+
+Way id=-2450 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="26"
+    "area"="Watville"
+  nodes:
+    -1096
+    -1098
+    -1090
+
+Way id=-2452 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="8"
+    "area"="Watville"
+  nodes:
+    -1132
+    -1124
+
+Way id=-2462 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -1130
+    -1132
+
+Way id=-2464 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="14"
+    "area"="Watville"
+  nodes:
+    -1160
+    -1158
+
+Way id=-2458 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -1128
+    -1112
+
+Way id=-2460 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -1128
+    -1130
+
+Way id=-2438 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -1074
+    -1094
+
+Way id=-2440 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="5"
+    "area"="Watville"
+  nodes:
+    -1110
+    -1096
+
+Way id=-2434 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="33"
+    "area"="Watville"
+  nodes:
+    -1088
+    -1068
+
+Way id=-2436 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="15"
+    "area"="Watville"
+  nodes:
+    -1090
+    -1092
+
+Way id=-2446 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="14"
+    "area"="Watville"
+  nodes:
+    -1106
+    -1108
+    -1110
+
+Way id=-2448 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="10"
+    "area"="Watville"
+  nodes:
+    -1112
+    -1114
+    -1110
+
+Way id=-2442 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -1088
+    -1100
+
+Way id=-2444 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="25"
+    "area"="Watville"
+  nodes:
+    -1102
+    -1104
+    -1100
+
+Way id=-2488 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="20"
+    "area"="Watville"
+  nodes:
+    -1178
+    -1176
+
+Way id=-2486 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="10"
+    "area"="Watville"
+  nodes:
+    -1176
+    -1162
+
+Way id=-2484 6 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="28"
+    "area"="Watville"
+  nodes:
+    -1162
+    -1164
+    -1166
+    -1168
+    -1170
+    -1172
+
+Way id=-2482 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="13"
+    "area"="Watville"
+  nodes:
+    -1158
+    -1134
+
+Way id=-2496 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="19"
+    "area"="Watville"
+  nodes:
+    -1192
+    -1194
+    -1184
+
+Way id=-2494 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -1190
+    -1178
+
+Way id=-2492 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="12"
+    "area"="Watville"
+  nodes:
+    -1184
+    -1186
+    -1188
+    -1178
+
+Way id=-2490 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="11"
+    "area"="Watville"
+  nodes:
+    -1180
+    -1182
+
+Way id=-2472 5 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="10"
+    "area"="Watville"
+  nodes:
+    -1198
+    -1154
+    -1152
+    -1150
+    -1138
+
+Way id=-2470 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -1132
+    -1136
+
+Way id=-2468 6 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="30"
+    "area"="Watville"
+  nodes:
+    -1124
+    -1122
+    -1120
+    -1118
+    -1116
+    -1094
+
+Way id=-2466 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="5"
+    "area"="Watville"
+  nodes:
+    -1136
+    -1130
+
+Way id=-2480 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="2"
+    "area"="Watville"
+  nodes:
+    -1102
+    -1156
+    -1200
+
+Way id=-2478 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -1106
+    -1146
+    -1148
+    -1102
+
+Way id=-2476 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="11"
+    "area"="Watville"
+  nodes:
+    -1140
+    -1106
+
+Way id=-2474 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="9"
+    "area"="Watville"
+  nodes:
+    -1112
+    -1142
+    -1144
+    -1140
+
+Way id=-2514 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="12"
+    "area"="Watville"
+  nodes:
+    -1074
+    -1076
+
+Way id=-2498 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="22"
+    "area"="Watville"
+  nodes:
+    -1196
+    -1190
+
+Way id=-2500 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -1190
+    -1192
+
+Way id=-2502 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="5"
+    "area"="Watville"
+  nodes:
+    -1138
+    -1140
+
+Way id=-2504 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="13"
+    "area"="Watville"
+  nodes:
+    -1162
+    -1172
+
+Way id=-2506 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -1172
+    -1174
+
+Way id=-2508 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -1066
+    -454
+
+Way id=-2510 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="20"
+    "area"="Watville"
+  nodes:
+    -1070
+    -1072
+
+Way id=-2512 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -1070
+    -1074
+
+Way id=-2548 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="24"
+    "area"="Watville"
+  nodes:
+    -236
+    -1236
+
+Way id=-1794 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="8"
+    "area"="Watville"
+  nodes:
+    -444
+    -442
+    -460
+
+Way id=-2546 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="2"
+    "area"="Watville"
+  nodes:
+    -1232
+    -212
+
+Way id=-1796 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="18"
+    "area"="Watville"
+  nodes:
+    -448
+    -446
+    -444
+
+Way id=-1798 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -450
+    -448
+
+Way id=-2552 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="15"
+    "area"="Watville"
+  nodes:
+    -280
+    -284
+
+Way id=-2550 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="1"
+    "area"="Watville"
+  nodes:
+    -1236
+    -254
+
+Way id=-1800 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -436
+    -452
+    -450
+
+Way id=-1802 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -456
+    -454
+
+Way id=-2556 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="15"
+    "area"="Watville"
+  nodes:
+    -288
+    -292
+
+Way id=-1804 7 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="51"
+    "area"="Watville"
+  nodes:
+    -474
+    -470
+    -468
+    -466
+    -464
+    -462
+    -460
+
+Way id=-2554 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="15"
+    "area"="Watville"
+  nodes:
+    -284
+    -288
+
+Way id=-1806 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="5"
+    "area"="Watville"
+  nodes:
+    -474
+    -472
+
+Way id=-1808 5 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="21"
+    "area"="Watville"
+  nodes:
+    -472
+    -480
+    -478
+    -476
+    -474
+
+Way id=-2544 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="16"
+    "area"="Watville"
+  nodes:
+    -1232
+    -1234
+
+Way id=-2542 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-07T08:33:09Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="11"
+    "area"="Watville"
+  nodes:
+    -202
+    -204
+
+Way id=-1482 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -94
+    -86
+
+Way id=-1484 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="9"
+    "area"="Watville"
+  nodes:
+    -80
+    -78
+
+Way id=-1486 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="17"
+    "area"="Watville"
+  nodes:
+    -76
+    -74
+    -72
+
+Way id=-1488 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="10"
+    "area"="Watville"
+  nodes:
+    -76
+    -80
+
+Way id=-1474 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="24"
+    "area"="Watville"
+  nodes:
+    -72
+    -64
+
+Way id=-1476 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="12"
+    "area"="Watville"
+  nodes:
+    -70
+    -68
+    -82
+
+Way id=-1478 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="19"
+    "area"="Watville"
+  nodes:
+    -66
+    -70
+
+Way id=-1480 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -86
+    -80
+
+Way id=-1498 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="16"
+    "area"="Watville"
+  nodes:
+    -94
+    -92
+    -100
+
+Way id=-1500 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -100
+    -98
+    -96
+
+Way id=-1502 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="13"
+    "area"="Watville"
+  nodes:
+    -108
+    -106
+    -110
+
+Way id=-1504 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="14"
+    "area"="Watville"
+  nodes:
+    -104
+    -102
+    -110
+
+Way id=-1490 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="18"
+    "area"="Watville"
+  nodes:
+    -86
+    -96
+
+Way id=-1492 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -118
+    -84
+    -82
+
+Way id=-1494 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="23"
+    "area"="Watville"
+  nodes:
+    -114
+    -88
+    -86
+
+Way id=-1496 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="19"
+    "area"="Watville"
+  nodes:
+    -112
+    -90
+    -94
+
+Way id=-1516 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -112
+    -116
+
+Way id=-1514 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -118
+    -114
+
+Way id=-1520 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="79"
+    "area"="Watville"
+  nodes:
+    -122
+    -140
+
+Way id=-1518 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="37"
+    "area"="Watville"
+  nodes:
+    -120
+    -118
+
+Way id=-1508 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="8"
+    "area"="Watville"
+  nodes:
+    -110
+    -116
+
+Way id=-1506 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -104
+    -108
+
+Way id=-1512 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -114
+    -112
+
+Way id=-1510 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="23"
+    "area"="Watville"
+  nodes:
+    -116
+    -138
+
+Way id=-1532 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -122
+    -130
+
+Way id=-1530 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -132
+    -134
+
+Way id=-1536 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -138
+    -140
+
+Way id=-1534 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -134
+    -136
+
+Way id=-1524 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="36"
+    "area"="Watville"
+  nodes:
+    -126
+    -134
+
+Way id=-1522 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="36"
+    "area"="Watville"
+  nodes:
+    -124
+    -132
+
+Way id=-1528 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -136
+    -142
+
+Way id=-1526 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="36"
+    "area"="Watville"
+  nodes:
+    -128
+    -136
+
+Way id=-1422 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -12
+    -4
+    -8
+
+Way id=-1424 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="48"
+    "area"="Watville"
+  nodes:
+    -12
+    -10
+
+Way id=-1418 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="5"
+    "area"="Watville"
+  nodes:
+    -130
+    -132
+
+Way id=-1420 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="24"
+    "area"="Watville"
+  nodes:
+    -8
+    -6
+
+Way id=-1416 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="5"
+    "area"="Watville"
+  nodes:
+    -40
+    -38
+
+Way id=-1438 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -36
+    -38
+
+Way id=-1440 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="26"
+    "area"="Watville"
+  nodes:
+    -38
+    -32
+    -30
+    -34
+
+Way id=-1434 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="42"
+    "area"="Watville"
+  nodes:
+    -34
+    -26
+
+Way id=-1436 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="8"
+    "area"="Watville"
+  nodes:
+    -36
+    -34
+
+Way id=-1430 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="12"
+    "area"="Watville"
+  nodes:
+    -24
+    -22
+    -20
+
+Way id=-1432 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="27"
+    "area"="Watville"
+  nodes:
+    -28
+    -36
+
+Way id=-1426 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="56"
+    "area"="Watville"
+  nodes:
+    -16
+    -14
+
+Way id=-1428 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="8"
+    "area"="Watville"
+  nodes:
+    -20
+    -18
+
+Way id=-1456 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -70
+    -72
+
+Way id=-2428 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -1090
+    -1070
+
+Way id=-1454 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -72
+    -60
+
+Way id=-2426 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -1068
+    -1070
+
+Way id=-1452 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -60
+    -56
+
+Way id=-2432 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="2"
+    "area"="Watville"
+  nodes:
+    -426
+    -1088
+
+Way id=-2430 7 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="35"
+    "area"="Watville"
+  nodes:
+    -1174
+    -1078
+    -1080
+    -1082
+    -1084
+    -1086
+    -1088
+
+Way id=-1450 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -56
+    -1192
+
+Way id=-2420 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="11"
+    "area"="Watville"
+  nodes:
+    -444
+    -432
+    -426
+
+Way id=-1448 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="48"
+    "area"="Watville"
+  nodes:
+    -46
+    -44
+    -1160
+
+Way id=-1446 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="45"
+    "area"="Watville"
+  nodes:
+    -42
+    -46
+
+Way id=-1444 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -130
+    -40
+
+Way id=-2424 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="11"
+    "area"="Watville"
+  nodes:
+    -1066
+    -1068
+
+Way id=-1442 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -26
+    -18
+
+Way id=-2422 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T08:13:26Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="37"
+    "area"="Watville"
+  nodes:
+    -426
+    -1066
+
+Way id=-1472 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="24"
+    "area"="Watville"
+  nodes:
+    -80
+    -62
+    -60
+
+Way id=-1470 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="39"
+    "area"="Watville"
+  nodes:
+    -60
+    -58
+
+Way id=-1468 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="33"
+    "area"="Watville"
+  nodes:
+    -78
+    -52
+    -56
+
+Way id=-1466 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="30"
+    "area"="Watville"
+  nodes:
+    -56
+    -54
+
+Way id=-1464 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="10"
+    "area"="Watville"
+  nodes:
+    -50
+    -78
+
+Way id=-1462 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -96
+    -50
+
+Way id=-1460 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="5"
+    "area"="Watville"
+  nodes:
+    -50
+    -48
+
+Way id=-1458 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -48
+    -416
+
+Way id=-1654 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="8"
+    "area"="Watville"
+  nodes:
+    -250
+    -280
+
+Way id=-1656 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="1"
+    "area"="Watville"
+  nodes:
+    -252
+    -1236
+
+Way id=-1650 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -264
+    -266
+
+Way id=-1652 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -256
+    -264
+
+Way id=-1662 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="8"
+    "area"="Watville"
+  nodes:
+    -262
+    -256
+
+Way id=-1664 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -262
+    -260
+
+Way id=-1658 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -260
+    -252
+
+Way id=-1660 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -254
+    -256
+
+Way id=-1638 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="30"
+    "area"="Watville"
+  nodes:
+    -254
+    -240
+
+Way id=-1640 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="28"
+    "area"="Watville"
+  nodes:
+    -256
+    -242
+
+Way id=-1634 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -242
+    -234
+    -232
+
+Way id=-1636 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="13"
+    "area"="Watville"
+  nodes:
+    -252
+    -238
+
+Way id=-1646 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="8"
+    "area"="Watville"
+  nodes:
+    -248
+    -250
+
+Way id=-1648 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -266
+    -250
+
+Way id=-1642 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="28"
+    "area"="Watville"
+  nodes:
+    -264
+    -244
+
+Way id=-1644 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="28"
+    "area"="Watville"
+  nodes:
+    -266
+    -246
+
+Way id=-1624 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="13"
+    "area"="Watville"
+  nodes:
+    -230
+    -248
+
+Way id=-1622 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="18"
+    "area"="Watville"
+  nodes:
+    -232
+    -228
+
+Way id=-1620 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="2"
+    "area"="Watville"
+  nodes:
+    -228
+    -238
+
+Way id=-1618 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="8"
+    "area"="Watville"
+  nodes:
+    -232
+    -226
+
+Way id=-1632 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -240
+    -242
+
+Way id=-1630 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -242
+    -244
+
+Way id=-1628 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="2"
+    "area"="Watville"
+  nodes:
+    -244
+    -246
+
+Way id=-1626 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -246
+    -230
+
+Way id=-1608 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="19"
+    "area"="Watville"
+  nodes:
+    -220
+    -216
+
+Way id=-1606 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="8"
+    "area"="Watville"
+  nodes:
+    -222
+    -214
+
+Way id=-1604 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="10"
+    "area"="Watville"
+  nodes:
+    -218
+    -210
+
+Way id=-1602 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="13"
+    "area"="Watville"
+  nodes:
+    -218
+    -212
+
+Way id=-1616 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="10"
+    "area"="Watville"
+  nodes:
+    -226
+    -224
+
+Way id=-1614 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="8"
+    "area"="Watville"
+  nodes:
+    -222
+    -220
+
+Way id=-1612 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -228
+    -222
+
+Way id=-1610 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -220
+    -218
+
+Way id=-1586 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="18"
+    "area"="Watville"
+  nodes:
+    -198
+    -212
+
+Way id=-1588 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="9"
+    "area"="Watville"
+  nodes:
+    -214
+    -200
+
+Way id=-1590 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -206
+    -202
+
+Way id=-1592 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -212
+    -206
+
+Way id=-1594 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -208
+    -204
+
+Way id=-1596 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="20"
+    "area"="Watville"
+  nodes:
+    -206
+    -208
+
+Way id=-1598 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -210
+    -208
+
+Way id=-1600 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="11"
+    "area"="Watville"
+  nodes:
+    -212
+    -210
+
+Way id=-1570 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -180
+    -178
+
+Way id=-1572 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="12"
+    "area"="Watville"
+  nodes:
+    -184
+    -182
+
+Way id=-1574 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="12"
+    "area"="Watville"
+  nodes:
+    -188
+    -186
+
+Way id=-1576 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -204
+    -224
+
+Way id=-1578 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="12"
+    "area"="Watville"
+  nodes:
+    -202
+    -194
+
+Way id=-1580 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="32"
+    "area"="Watville"
+  nodes:
+    -206
+    -196
+    -192
+
+Way id=-1582 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="2"
+    "area"="Watville"
+  nodes:
+    -216
+    -1232
+
+Way id=-1584 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -214
+    -216
+
+Way id=-1556 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -156
+    -154
+
+Way id=-1554 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="5"
+    "area"="Watville"
+  nodes:
+    -154
+    -152
+
+Way id=-1560 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="38"
+    "area"="Watville"
+  nodes:
+    -192
+    -162
+    -160
+
+Way id=-1558 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="41"
+    "area"="Watville"
+  nodes:
+    -190
+    -158
+    -156
+
+Way id=-1564 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="21"
+    "area"="Watville"
+  nodes:
+    -176
+    -174
+    -172
+
+Way id=-1562 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -176
+    -170
+
+Way id=-1568 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -230
+    -164
+    -176
+
+Way id=-1566 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="18"
+    "area"="Watville"
+  nodes:
+    -170
+    -168
+    -166
+
+Way id=-1540 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="23"
+    "area"="Watville"
+  nodes:
+    -144
+    -142
+
+Way id=-1538 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -144
+    -140
+
+Way id=-1544 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -148
+    -146
+
+Way id=-1542 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="11"
+    "area"="Watville"
+  nodes:
+    -146
+    -142
+
+Way id=-1548 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="26"
+    "area"="Watville"
+  nodes:
+    -152
+    -146
+
+Way id=-1546 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="9"
+    "area"="Watville"
+  nodes:
+    -152
+    -144
+
+Way id=-1552 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="25"
+    "area"="Watville"
+  nodes:
+    -154
+    -150
+
+Way id=-1790 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -450
+    -438
+
+Way id=-1792 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -448
+    -440
+
+Way id=-1786 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="1"
+    "area"="Watville"
+  nodes:
+    -440
+    -438
+
+Way id=-1788 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="13"
+    "area"="Watville"
+  nodes:
+    -460
+    -440
+
+Way id=-1782 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="10"
+    "area"="Watville"
+  nodes:
+    -436
+    -434
+    -458
+    -456
+
+Way id=-1784 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="18"
+    "area"="Watville"
+  nodes:
+    -438
+    -436
+
+Way id=-1778 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="9"
+    "area"="Watville"
+  nodes:
+    -410
+    -408
+    -424
+
+Way id=-1780 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-01T20:34:11Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="12"
+    "area"="Watville"
+  nodes:
+    -430
+    -428
+    -426
+
+Way id=-1774 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -414
+    -1184
+
+Way id=-1776 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -416
+    -1192
+
+Way id=-1770 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="17"
+    "area"="Watville"
+  nodes:
+    -424
+    -422
+    -420
+    -418
+
+Way id=-1772 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="34"
+    "area"="Watville"
+  nodes:
+    -418
+    -412
+    -410
+
+Way id=-1766 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="38"
+    "area"="Watville"
+  nodes:
+    -414
+    -404
+    -402
+    -400
+
+Way id=-1768 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="13"
+    "area"="Watville"
+  nodes:
+    -418
+    -406
+    -414
+
+Way id=-1762 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -400
+    -416
+
+Way id=-1764 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -410
+    -398
+    -400
+
+Way id=-1760 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="21"
+    "area"="Watville"
+  nodes:
+    -396
+    -394
+    -392
+
+Way id=-1758 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="28"
+    "area"="Watville"
+  nodes:
+    -390
+    -388
+
+Way id=-1756 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="28"
+    "area"="Watville"
+  nodes:
+    -386
+    -384
+
+Way id=-1754 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="15"
+    "area"="Watville"
+  nodes:
+    -382
+    -380
+
+Way id=-1752 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="20"
+    "area"="Watville"
+  nodes:
+    -378
+    -366
+    -376
+
+Way id=-1750 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="22"
+    "area"="Watville"
+  nodes:
+    -374
+    -372
+
+Way id=-1748 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="5"
+    "area"="Watville"
+  nodes:
+    -370
+    -368
+
+Way id=-1746 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="8"
+    "area"="Watville"
+  nodes:
+    -376
+    -372
+
+Way id=-1744 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="12"
+    "area"="Watville"
+  nodes:
+    -364
+    -362
+
+Way id=-1742 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="12"
+    "area"="Watville"
+  nodes:
+    -362
+    -360
+
+Way id=-1740 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="15"
+    "area"="Watville"
+  nodes:
+    -348
+    -354
+
+Way id=-1738 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -358
+    -326
+
+Way id=-1736 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -344
+    -342
+
+Way id=-1734 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -356
+    -340
+
+Way id=-1732 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="40"
+    "area"="Watville"
+  nodes:
+    -266
+    -274
+
+Way id=-1730 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -356
+    -344
+
+Way id=-1722 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="5"
+    "area"="Watville"
+  nodes:
+    -334
+    -358
+
+Way id=-1724 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="9"
+    "area"="Watville"
+  nodes:
+    -330
+    -328
+    -326
+
+Way id=-1726 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="11"
+    "area"="Watville"
+  nodes:
+    -334
+    -332
+    -330
+
+Way id=-1728 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="15"
+    "area"="Watville"
+  nodes:
+    -344
+    -348
+
+Way id=-1714 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -310
+    -308
+
+Way id=-1716 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -300
+    -314
+    -312
+
+Way id=-1718 6 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="50"
+    "area"="Watville"
+  nodes:
+    -302
+    -324
+    -322
+    -320
+    -318
+    -316
+
+Way id=-1706 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="15"
+    "area"="Watville"
+  nodes:
+    -300
+    -298
+    -308
+
+Way id=-1708 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="14"
+    "area"="Watville"
+  nodes:
+    -300
+    -310
+
+Way id=-1710 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="10"
+    "area"="Watville"
+  nodes:
+    -302
+    -300
+
+Way id=-1712 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="5"
+    "area"="Watville"
+  nodes:
+    -308
+    -304
+
+Way id=-1698 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -304
+    -294
+
+Way id=-1700 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="7"
+    "area"="Watville"
+  nodes:
+    -316
+    -294
+
+Way id=-1702 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="15"
+    "area"="Watville"
+  nodes:
+    -312
+    -316
+
+Way id=-1704 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="4"
+    "area"="Watville"
+  nodes:
+    -302
+    -296
+    -312
+
+Way id=-1692 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="30"
+    "area"="Watville"
+  nodes:
+    -284
+    -282
+
+Way id=-1690 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="30"
+    "area"="Watville"
+  nodes:
+    -280
+    -278
+
+Way id=-1696 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="30"
+    "area"="Watville"
+  nodes:
+    -292
+    -290
+
+Way id=-1694 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="30"
+    "area"="Watville"
+  nodes:
+    -288
+    -286
+
+Way id=-1682 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="3"
+    "area"="Watville"
+  nodes:
+    -276
+    -272
+
+Way id=-1688 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="13"
+    "area"="Watville"
+  nodes:
+    -306
+    -304
+
+Way id=-1686 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="40"
+    "area"="Watville"
+  nodes:
+    -336
+    -346
+    -338
+
+Way id=-1676 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="6"
+    "area"="Watville"
+  nodes:
+    -272
+    -270
+
+Way id=-1674 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="13"
+    "area"="Watville"
+  nodes:
+    -268
+    -270
+
+Way id=-1680 4 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="28"
+    "area"="Watville"
+  nodes:
+    -354
+    -352
+    -350
+    -334
+
+Way id=-1678 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="28"
+    "area"="Watville"
+  nodes:
+    -360
+    -276
+
+Way id=-1668 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="28"
+    "area"="Watville"
+  nodes:
+    -270
+    -262
+
+Way id=-1666 3 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="12"
+    "area"="Watville"
+  nodes:
+    -260
+    -258
+    -268
+
+Way id=-1672 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="5"
+    "area"="Watville"
+  nodes:
+    -274
+    -336
+
+Way id=-1670 2 nodes; Data set: 141D19; User: [<null>]; ChangeSet id: 0; Timestamp: 2011-06-02T20:43:08Z, Version: 0; modified
+  tags:
+    "highway"="living_street"
+    "surface"="40"
+    "area"="Watville"
+  nodes:
+    -272
+    -264
