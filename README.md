@@ -39,7 +39,7 @@ If your computer crashes, chances are you're using a python version later than 3
 
 Using the GUI is straightforward. Just make sure to leave the terminal session active in the background. You'll be able to see the heuristics at work in-it.
 
-![](demo_gifs/gui_demo.gif)
+![](demo_gifs/gui_demo1.gif)
 
 The image above shows the GUI with the terminal window placed underneath it. The depot is the black node to the left, and the landfill site the red one to the right.
 
